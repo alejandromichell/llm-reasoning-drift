@@ -32,12 +32,12 @@ The pipeline annotates 1,347 assistant speaking turns using a six-label taxonomy
 llm-reasoning-drift/
 ├── notebook/
 │   └── reasoning_drift_analysis.ipynb   # Full pipeline, outputs cleared
-├── figures/                              # Visualizations (add from Colab run)
+├── figures/
 │   ├── fig1_reasoning_quality_timeline.png
 │   ├── fig2_transition_matrix_heatmap.png
 │   ├── fig3_hmm_hidden_states.png
-│   ├── fig4_pca_cluster_scatter.png
-│   ├── fig5_drift_velocity_histogram.png
+│   ├── fig4_drift_velocity_speaking_only.png
+│   ├── fig5_drift_velocity_full_sequence.png
 │   └── fig6_drift_velocity_slope_chart.png
 └── data/
     └── annotation_schema.json           # Dataset field definitions — no raw data
