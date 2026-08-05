@@ -90,9 +90,14 @@ Additional cells: SILENT_BASH origin split (Cell 35), full turn origin split (Ce
 
 ## Data
 
-Raw transcript and annotated datasets are not included in this repository, the session contains project-specific development context.
+Raw transcript and full annotated datasets are not included — the session contains project-specific development context. Two sanitized datasets are provided:
 
-`data/annotation_schema.json` documents the field definitions for the annotated dataset so the pipeline output format is reproducible against any Claude Code session.
+| File | Rows | Columns | Contents |
+|---|---|---|---|
+| `session-828a165e-annotated-sanitized.csv` | 1,347 | 9 | Per-turn metadata: classification label, confidence, HMM hidden state, tool call presence, timestamp. All message text removed. |
+| `session-828a165e-evidence-gaps-sanitized.csv` | 31 | 3 | Per-ASSERTED-turn gap counts: number of unsupported claims, annotation confidence. All claim text removed. |
+
+`annotation_schema.json` documents the full field definitions including the dropped text columns, so the complete pipeline output format is reproducible against any Claude Code session.
 
 ---
 

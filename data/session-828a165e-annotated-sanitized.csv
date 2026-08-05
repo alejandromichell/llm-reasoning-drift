@@ -1,0 +1,1348 @@
+message_id,has_tool_calls,tool_names,timestamp,classification,confidence,label_int,hidden_state,state_name
+0,False,[],2026-06-25T18:29:45.014Z,ACTION,1.0,0,2,Execution/Drift
+1,False,[],2026-06-25T18:29:53.091Z,ASSERTED,0.9,1,2,Execution/Drift
+2,False,[],2026-06-25T18:29:59.232Z,ACTION,1.0,0,2,Execution/Drift
+3,False,[],2026-06-25T18:30:05.083Z,ACTION,1.0,0,2,Execution/Drift
+4,False,[],2026-06-25T18:30:22.694Z,ASSERTED,0.9,1,2,Execution/Drift
+5,False,[],2026-06-25T18:31:35.562Z,GROUNDED,0.95,3,2,Execution/Drift
+6,False,[],2026-06-25T18:34:04.438Z,ACTION,1.0,0,2,Execution/Drift
+7,False,[],2026-06-25T18:34:55.198Z,INFERRED,0.9,4,2,Execution/Drift
+8,False,[],2026-06-25T18:36:14.442Z,ACTION,0.9,0,2,Execution/Drift
+9,False,[],2026-06-25T18:36:47.430Z,ACTION,0.9,0,2,Execution/Drift
+10,False,[],2026-06-25T18:38:52.460Z,ACTION,1.0,0,2,Execution/Drift
+11,False,[],2026-06-25T18:39:49.209Z,ACTION,1.0,0,2,Execution/Drift
+12,False,[],2026-06-25T18:40:41.934Z,ACTION,0.9,0,2,Execution/Drift
+13,False,[],2026-06-25T18:44:38.370Z,INFERRED,0.8,4,2,Execution/Drift
+14,False,[],2026-06-25T18:51:36.986Z,ACTION,0.9,0,0,Active Reasoning
+15,False,[],2026-06-25T18:51:58.870Z,GROUNDED,0.95,3,1,Evidence-Grounded
+16,False,[],2026-06-25T19:01:55.744Z,ACTION,0.9,0,0,Active Reasoning
+17,False,[],2026-06-25T19:02:27.701Z,INFERRED,0.85,4,1,Evidence-Grounded
+18,False,[],2026-06-25T19:03:37.069Z,GROUNDED,0.95,3,0,Active Reasoning
+19,False,[],2026-06-25T19:11:05.635Z,CORRECTING,1.0,2,1,Evidence-Grounded
+20,False,[],2026-06-25T19:14:24.788Z,GROUNDED,0.9,3,0,Active Reasoning
+21,False,[],2026-06-25T19:18:19.611Z,INFERRED,0.9,4,1,Evidence-Grounded
+22,False,[],2026-06-25T19:21:28.586Z,INFERRED,0.9,4,0,Active Reasoning
+23,False,[],2026-06-25T19:22:00.161Z,ACTION,0.9,0,1,Evidence-Grounded
+24,False,[],2026-06-25T19:33:25.651Z,ASSERTED,0.9,1,0,Active Reasoning
+25,False,[],2026-06-25T19:35:39.898Z,CORRECTING,0.9,2,1,Evidence-Grounded
+26,False,[],2026-06-25T19:38:12.859Z,GROUNDED,1.0,3,0,Active Reasoning
+27,False,[],2026-06-25T19:38:39.002Z,INFERRED,0.9,4,1,Evidence-Grounded
+28,False,[],2026-06-25T19:45:12.291Z,ACTION,1.0,0,0,Active Reasoning
+29,False,[],2026-06-25T19:46:47.959Z,GROUNDED,1.0,3,1,Evidence-Grounded
+30,False,[],2026-06-25T19:50:39.534Z,ACTION,0.9,0,0,Active Reasoning
+31,False,[],2026-06-25T19:50:51.517Z,GROUNDED,0.95,3,1,Evidence-Grounded
+32,False,[],2026-06-25T19:51:15.722Z,INFERRED,0.9,4,0,Active Reasoning
+33,False,[],2026-06-25T19:52:01.941Z,GROUNDED,1.0,3,1,Evidence-Grounded
+34,False,[],2026-06-25T19:52:32.055Z,ACTION,0.9,0,0,Active Reasoning
+35,False,[],2026-06-25T19:52:38.622Z,GROUNDED,1.0,3,1,Evidence-Grounded
+36,False,[],2026-06-25T19:57:30.680Z,ACTION,1.0,0,0,Active Reasoning
+37,False,[],2026-06-25T19:57:48.385Z,INFERRED,0.9,4,1,Evidence-Grounded
+38,False,[],2026-06-25T20:00:24.663Z,GROUNDED,1.0,3,0,Active Reasoning
+39,False,[],2026-06-25T20:00:47.449Z,INFERRED,0.9,4,1,Evidence-Grounded
+40,False,[],2026-06-25T21:48:21.811Z,INFERRED,0.9,4,0,Active Reasoning
+41,False,[],2026-06-26T14:07:46.939Z,INFERRED,0.9,4,1,Evidence-Grounded
+42,False,[],2026-06-26T14:09:54.701Z,GROUNDED,1.0,3,0,Active Reasoning
+43,False,[],2026-06-26T14:13:20.403Z,INFERRED,0.9,4,1,Evidence-Grounded
+44,False,[],2026-06-26T14:16:52.427Z,MIXED,0.9,5,0,Active Reasoning
+45,False,[],2026-06-26T14:18:33.905Z,GROUNDED,1.0,3,1,Evidence-Grounded
+46,False,[],2026-06-26T14:19:59.820Z,MIXED,0.9,5,2,Execution/Drift
+47,False,[],2026-06-26T14:22:17.694Z,ACTION,1.0,0,2,Execution/Drift
+48,False,[],2026-06-26T14:24:22.784Z,CORRECTING,0.9,2,2,Execution/Drift
+49,False,[],2026-06-26T14:24:40.850Z,MIXED,0.9,5,2,Execution/Drift
+50,False,[],2026-06-26T14:26:55.406Z,ACTION,0.95,0,2,Execution/Drift
+51,False,[],2026-06-26T14:28:44.482Z,INFERRED,0.9,4,0,Active Reasoning
+52,False,[],2026-06-26T14:30:03.508Z,INFERRED,0.85,4,1,Evidence-Grounded
+53,False,[],2026-06-26T14:33:15.179Z,GROUNDED,1.0,3,0,Active Reasoning
+54,False,[],2026-06-26T14:33:38.318Z,INFERRED,0.9,4,1,Evidence-Grounded
+55,False,[],2026-06-26T14:33:56.641Z,ACTION,0.9,0,0,Active Reasoning
+56,False,[],2026-06-26T14:35:00.851Z,GROUNDED,0.9,3,1,Evidence-Grounded
+57,False,[],2026-06-26T14:36:02.771Z,ACTION,0.95,0,0,Active Reasoning
+58,False,[],2026-06-26T14:36:34.522Z,INFERRED,0.9,4,1,Evidence-Grounded
+59,False,[],2026-06-26T14:37:13.526Z,GROUNDED,0.95,3,0,Active Reasoning
+60,False,[],2026-06-26T14:38:25.714Z,INFERRED,0.9,4,1,Evidence-Grounded
+61,False,[],2026-06-26T14:45:10.238Z,ASSERTED,0.9,1,0,Active Reasoning
+62,False,[],2026-06-26T15:15:25.934Z,GROUNDED,0.95,3,1,Evidence-Grounded
+63,False,[],2026-06-26T15:59:26.213Z,ACTION,0.9,0,0,Active Reasoning
+64,False,[],2026-06-26T16:12:15.569Z,GROUNDED,1.0,3,1,Evidence-Grounded
+65,False,[],2026-06-26T16:13:06.534Z,ACTION,1.0,0,2,Execution/Drift
+66,False,[],2026-06-26T16:15:46.256Z,CORRECTING,1.0,2,2,Execution/Drift
+67,False,[],2026-06-26T16:16:01.581Z,ACTION,1.0,0,2,Execution/Drift
+68,False,[],2026-06-26T16:16:49.079Z,ACTION,1.0,0,2,Execution/Drift
+69,False,[],2026-06-26T16:17:21.625Z,ACTION,1.0,0,2,Execution/Drift
+70,False,[],2026-06-26T16:17:55.796Z,ACTION,1.0,0,2,Execution/Drift
+71,False,[],2026-06-26T16:19:10.984Z,ACTION,1.0,0,2,Execution/Drift
+72,False,[],2026-06-26T16:22:58.293Z,GROUNDED,1.0,3,0,Active Reasoning
+73,False,[],2026-06-26T16:23:15.185Z,GROUNDED,0.9,3,1,Evidence-Grounded
+74,False,[],2026-06-26T16:24:13.647Z,GROUNDED,1.0,3,0,Active Reasoning
+75,False,[],2026-06-26T16:24:29.955Z,CORRECTING,1.0,2,1,Evidence-Grounded
+76,False,[],2026-06-26T16:24:40.556Z,INFERRED,0.9,4,0,Active Reasoning
+77,False,[],2026-06-26T16:25:20.538Z,GROUNDED,0.9,3,1,Evidence-Grounded
+78,False,[],2026-06-26T16:27:19.653Z,MIXED,0.9,5,0,Active Reasoning
+79,False,[],2026-06-26T16:27:36.432Z,GROUNDED,1.0,3,1,Evidence-Grounded
+80,False,[],2026-06-26T16:27:54.630Z,CORRECTING,0.9,2,2,Execution/Drift
+81,False,[],2026-06-26T16:32:58.329Z,ACTION,1.0,0,2,Execution/Drift
+82,False,[],2026-06-26T16:35:17.028Z,ACTION,1.0,0,2,Execution/Drift
+83,False,[],2026-06-26T16:36:20.007Z,INFERRED,0.9,4,2,Execution/Drift
+84,False,[],2026-06-26T16:42:01.742Z,ACTION,1.0,0,2,Execution/Drift
+85,False,[],2026-06-26T16:43:08.444Z,GROUNDED,1.0,3,0,Active Reasoning
+86,False,[],2026-06-26T16:43:44.880Z,GROUNDED,0.95,3,1,Evidence-Grounded
+87,False,[],2026-06-26T16:50:03.846Z,ACTION,1.0,0,0,Active Reasoning
+88,False,[],2026-06-26T16:50:35.934Z,GROUNDED,0.9,3,1,Evidence-Grounded
+89,False,[],2026-06-26T18:52:21.798Z,ACTION,1.0,0,0,Active Reasoning
+90,False,[],2026-06-26T18:54:27.370Z,INFERRED,0.9,4,1,Evidence-Grounded
+91,False,[],2026-06-26T18:57:11.451Z,ACTION,1.0,0,0,Active Reasoning
+92,False,[],2026-06-26T18:58:22.762Z,GROUNDED,1.0,3,1,Evidence-Grounded
+93,False,[],2026-06-26T18:58:28.153Z,GROUNDED,0.9,3,0,Active Reasoning
+94,False,[],2026-06-26T18:58:51.470Z,GROUNDED,1.0,3,1,Evidence-Grounded
+95,False,[],2026-06-26T18:59:17.457Z,GROUNDED,1.0,3,0,Active Reasoning
+96,False,[],2026-06-26T23:19:43.102Z,GROUNDED,1.0,3,1,Evidence-Grounded
+97,False,[],2026-06-26T23:21:18.581Z,INFERRED,0.9,4,0,Active Reasoning
+98,False,[],2026-06-26T23:21:53.304Z,ACTION,1.0,0,1,Evidence-Grounded
+99,False,[],2026-06-26T23:23:57.538Z,MIXED,0.9,5,0,Active Reasoning
+100,False,[],2026-06-26T23:29:53.717Z,GROUNDED,1.0,3,1,Evidence-Grounded
+101,False,[],2026-06-26T23:30:17.045Z,INFERRED,0.9,4,0,Active Reasoning
+102,False,[],2026-06-26T23:31:22.158Z,CORRECTING,1.0,2,1,Evidence-Grounded
+103,False,[],2026-06-26T23:45:59.886Z,INFERRED,0.9,4,0,Active Reasoning
+104,False,[],2026-06-26T23:47:34.533Z,CORRECTING,1.0,2,1,Evidence-Grounded
+105,False,[],2026-06-26T23:58:19.732Z,ACTION,1.0,0,2,Execution/Drift
+106,False,[],2026-06-26T23:59:03.308Z,GROUNDED,1.0,3,0,Active Reasoning
+107,False,[],2026-06-26T23:59:26.923Z,GROUNDED,1.0,3,1,Evidence-Grounded
+108,False,[],2026-06-27T01:00:13.618Z,INFERRED,0.9,4,0,Active Reasoning
+109,False,[],2026-06-27T01:17:45.597Z,GROUNDED,0.95,3,1,Evidence-Grounded
+110,False,[],2026-06-27T01:25:52.518Z,INFERRED,0.9,4,0,Active Reasoning
+111,False,[],2026-06-27T01:51:49.539Z,ACTION,1.0,0,1,Evidence-Grounded
+112,False,[],2026-06-27T01:52:01.808Z,GROUNDED,1.0,3,0,Active Reasoning
+113,False,[],2026-06-27T01:52:42.453Z,GROUNDED,0.9,3,1,Evidence-Grounded
+114,False,[],2026-06-27T02:01:25.307Z,GROUNDED,0.95,3,0,Active Reasoning
+115,False,[],2026-06-27T02:02:45.790Z,INFERRED,0.9,4,1,Evidence-Grounded
+116,False,[],2026-06-27T02:04:22.806Z,ASSERTED,0.9,1,0,Active Reasoning
+117,False,[],2026-06-27T02:05:06.108Z,GROUNDED,1.0,3,1,Evidence-Grounded
+118,False,[],2026-06-27T02:06:03.245Z,INFERRED,0.9,4,0,Active Reasoning
+119,False,[],2026-06-27T02:07:20.206Z,ACTION,1.0,0,1,Evidence-Grounded
+120,False,[],2026-06-27T02:07:30.238Z,GROUNDED,1.0,3,0,Active Reasoning
+121,False,[],2026-06-27T02:07:45.507Z,GROUNDED,1.0,3,1,Evidence-Grounded
+122,False,[],2026-06-27T02:09:10.427Z,INFERRED,0.9,4,0,Active Reasoning
+123,False,[],2026-06-27T02:11:20.422Z,INFERRED,0.9,4,1,Evidence-Grounded
+124,False,[],2026-06-27T02:12:51.274Z,GROUNDED,1.0,3,0,Active Reasoning
+125,False,[],2026-06-27T02:13:20.419Z,ACTION,1.0,0,1,Evidence-Grounded
+126,False,[],2026-06-27T02:14:45.706Z,GROUNDED,1.0,3,0,Active Reasoning
+127,False,[],2026-06-27T02:15:27.509Z,GROUNDED,1.0,3,1,Evidence-Grounded
+128,False,[],2026-06-27T11:08:02.464Z,INFERRED,0.9,4,0,Active Reasoning
+129,False,[],2026-06-27T11:09:56.002Z,GROUNDED,1.0,3,1,Evidence-Grounded
+130,False,[],2026-06-27T11:11:01.678Z,GROUNDED,0.95,3,0,Active Reasoning
+131,False,[],2026-06-27T11:13:05.490Z,ACTION,1.0,0,1,Evidence-Grounded
+132,False,[],2026-06-27T11:13:15.408Z,ACTION,1.0,0,0,Active Reasoning
+133,False,[],2026-06-27T11:13:38.221Z,GROUNDED,1.0,3,1,Evidence-Grounded
+134,False,[],2026-06-27T11:16:03.214Z,ACTION,0.9,0,0,Active Reasoning
+135,False,[],2026-06-27T11:17:00.421Z,GROUNDED,0.9,3,1,Evidence-Grounded
+136,False,[],2026-06-27T11:18:11.256Z,ACTION,0.9,0,0,Active Reasoning
+137,False,[],2026-06-27T11:21:27.136Z,INFERRED,0.9,4,1,Evidence-Grounded
+138,False,[],2026-06-27T11:24:04.829Z,ACTION,1.0,0,0,Active Reasoning
+139,False,[],2026-06-27T11:26:26.653Z,GROUNDED,0.9,3,1,Evidence-Grounded
+140,False,[],2026-06-27T11:27:03.112Z,ACTION,1.0,0,0,Active Reasoning
+141,False,[],2026-06-27T11:27:30.655Z,ACTION,1.0,0,1,Evidence-Grounded
+142,False,[],2026-06-27T11:27:50.209Z,MIXED,0.9,5,0,Active Reasoning
+143,False,[],2026-06-27T11:29:55.215Z,GROUNDED,0.9,3,1,Evidence-Grounded
+144,False,[],2026-06-27T11:30:13.982Z,INFERRED,0.9,4,0,Active Reasoning
+145,False,[],2026-06-27T11:30:17.155Z,GROUNDED,1.0,3,1,Evidence-Grounded
+146,False,[],2026-06-27T11:31:06.393Z,GROUNDED,1.0,3,0,Active Reasoning
+147,False,[],2026-06-27T11:31:37.771Z,GROUNDED,1.0,3,1,Evidence-Grounded
+148,False,[],2026-06-27T11:32:11.097Z,GROUNDED,1.0,3,0,Active Reasoning
+149,False,[],2026-06-27T11:32:46.495Z,GROUNDED,1.0,3,1,Evidence-Grounded
+150,False,[],2026-06-27T11:33:42.628Z,GROUNDED,0.9,3,0,Active Reasoning
+151,False,[],2026-06-27T11:34:37.971Z,GROUNDED,1.0,3,1,Evidence-Grounded
+152,False,[],2026-06-27T11:36:50.066Z,GROUNDED,1.0,3,0,Active Reasoning
+153,False,[],2026-06-27T11:42:13.284Z,GROUNDED,1.0,3,1,Evidence-Grounded
+154,False,[],2026-06-27T11:42:46.643Z,INFERRED,0.9,4,0,Active Reasoning
+155,False,[],2026-06-27T11:43:39.740Z,GROUNDED,0.95,3,1,Evidence-Grounded
+156,False,[],2026-06-27T11:48:06.592Z,GROUNDED,1.0,3,0,Active Reasoning
+157,False,[],2026-06-27T11:48:51.615Z,INFERRED,0.9,4,1,Evidence-Grounded
+158,False,[],2026-06-27T11:52:52.500Z,GROUNDED,1.0,3,0,Active Reasoning
+159,False,[],2026-06-27T11:57:45.794Z,GROUNDED,1.0,3,1,Evidence-Grounded
+160,False,[],2026-06-27T11:58:04.855Z,GROUNDED,1.0,3,0,Active Reasoning
+161,False,[],2026-06-27T11:58:30.051Z,INFERRED,0.9,4,1,Evidence-Grounded
+162,False,[],2026-06-27T11:58:49.755Z,GROUNDED,1.0,3,0,Active Reasoning
+163,False,[],2026-06-27T11:59:41.915Z,MIXED,0.9,5,1,Evidence-Grounded
+164,False,[],2026-06-27T11:59:44.971Z,ASSERTED,0.9,1,0,Active Reasoning
+165,False,[],2026-06-27T12:05:28.371Z,GROUNDED,1.0,3,1,Evidence-Grounded
+166,False,[],2026-06-27T12:08:49.611Z,GROUNDED,1.0,3,0,Active Reasoning
+167,False,[],2026-06-27T12:20:04.870Z,INFERRED,0.9,4,1,Evidence-Grounded
+168,False,[],2026-06-27T12:21:45.504Z,INFERRED,0.9,4,0,Active Reasoning
+169,False,[],2026-06-27T12:22:40.932Z,GROUNDED,1.0,3,1,Evidence-Grounded
+170,False,[],2026-06-27T12:30:06.717Z,GROUNDED,1.0,3,0,Active Reasoning
+171,False,[],2026-06-27T12:30:32.047Z,GROUNDED,1.0,3,1,Evidence-Grounded
+172,False,[],2026-06-27T12:31:07.575Z,ACTION,1.0,0,0,Active Reasoning
+173,False,[],2026-06-27T12:31:38.775Z,INFERRED,0.9,4,1,Evidence-Grounded
+174,False,[],2026-06-27T12:32:38.245Z,GROUNDED,0.9,3,0,Active Reasoning
+175,False,[],2026-06-27T12:33:29.301Z,ACTION,1.0,0,1,Evidence-Grounded
+176,False,[],2026-06-27T12:34:37.292Z,MIXED,0.9,5,0,Active Reasoning
+177,False,[],2026-06-27T12:58:42.851Z,GROUNDED,0.9,3,1,Evidence-Grounded
+178,False,[],2026-06-27T13:27:40.237Z,MIXED,0.9,5,0,Active Reasoning
+179,False,[],2026-06-27T13:28:01.874Z,GROUNDED,0.9,3,1,Evidence-Grounded
+180,False,[],2026-06-27T13:28:39.130Z,INFERRED,0.8,4,0,Active Reasoning
+181,False,[],2026-06-27T13:29:10.668Z,INFERRED,0.9,4,1,Evidence-Grounded
+182,False,[],2026-06-27T13:32:20.805Z,INFERRED,0.9,4,0,Active Reasoning
+183,False,[],2026-06-27T13:33:16.373Z,GROUNDED,1.0,3,1,Evidence-Grounded
+184,False,[],2026-06-27T13:33:50.571Z,GROUNDED,1.0,3,0,Active Reasoning
+185,False,[],2026-06-27T13:34:20.594Z,GROUNDED,0.95,3,1,Evidence-Grounded
+186,False,[],2026-06-27T14:39:32.618Z,ACTION,1.0,0,0,Active Reasoning
+187,False,[],2026-06-27T14:40:07.744Z,GROUNDED,0.9,3,1,Evidence-Grounded
+188,False,[],2026-06-27T14:40:11.440Z,GROUNDED,1.0,3,0,Active Reasoning
+189,False,[],2026-06-27T14:40:38.900Z,GROUNDED,1.0,3,1,Evidence-Grounded
+190,False,[],2026-06-27T15:06:17.465Z,INFERRED,0.9,4,0,Active Reasoning
+191,False,[],2026-06-27T15:06:41.676Z,GROUNDED,1.0,3,1,Evidence-Grounded
+192,False,[],2026-06-27T15:07:24.006Z,INFERRED,0.9,4,0,Active Reasoning
+193,False,[],2026-06-27T15:08:29.665Z,ACTION,1.0,0,1,Evidence-Grounded
+194,False,[],2026-06-27T15:10:10.848Z,GROUNDED,1.0,3,0,Active Reasoning
+195,False,[],2026-06-27T15:10:37.303Z,INFERRED,0.9,4,1,Evidence-Grounded
+196,False,[],2026-06-27T15:10:54.473Z,GROUNDED,1.0,3,0,Active Reasoning
+197,False,[],2026-06-27T15:11:49.080Z,ACTION,1.0,0,1,Evidence-Grounded
+198,False,[],2026-06-27T15:14:02.806Z,INFERRED,0.9,4,0,Active Reasoning
+199,False,[],2026-06-27T15:14:06.903Z,GROUNDED,1.0,3,1,Evidence-Grounded
+200,False,[],2026-06-27T15:14:26.218Z,ACTION,1.0,0,2,Execution/Drift
+201,False,[],2026-06-27T15:16:02.222Z,INFERRED,0.9,4,0,Active Reasoning
+202,False,[],2026-06-27T15:28:49.430Z,GROUNDED,1.0,3,1,Evidence-Grounded
+203,False,[],2026-06-28T13:38:59.693Z,GROUNDED,1.0,3,0,Active Reasoning
+204,False,[],2026-06-28T15:47:32.417Z,ACTION,0.9,0,1,Evidence-Grounded
+205,False,[],2026-06-28T15:48:29.242Z,GROUNDED,0.9,3,0,Active Reasoning
+206,False,[],2026-06-28T15:48:48.012Z,INFERRED,0.9,4,1,Evidence-Grounded
+207,False,[],2026-06-28T15:51:47.745Z,MIXED,0.9,5,0,Active Reasoning
+208,False,[],2026-06-28T15:53:55.204Z,INFERRED,0.9,4,1,Evidence-Grounded
+209,False,[],2026-06-28T15:56:46.526Z,ACTION,0.9,0,0,Active Reasoning
+210,False,[],2026-06-28T15:57:30.974Z,INFERRED,0.8,4,1,Evidence-Grounded
+211,False,[],2026-06-28T15:58:07.844Z,GROUNDED,1.0,3,0,Active Reasoning
+212,False,[],2026-06-28T16:21:02.138Z,GROUNDED,1.0,3,1,Evidence-Grounded
+213,False,[],2026-06-28T16:21:14.440Z,GROUNDED,1.0,3,0,Active Reasoning
+214,False,[],2026-06-28T16:25:20.141Z,GROUNDED,1.0,3,1,Evidence-Grounded
+215,False,[],2026-06-28T17:50:03.696Z,ACTION,1.0,0,2,Execution/Drift
+216,False,[],2026-06-28T17:50:22.714Z,ACTION,0.9,0,2,Execution/Drift
+217,False,[],2026-06-28T17:56:38.050Z,GROUNDED,1.0,3,2,Execution/Drift
+218,False,[],2026-06-28T17:58:32.713Z,ACTION,1.0,0,2,Execution/Drift
+219,False,[],2026-06-28T17:58:55.446Z,GROUNDED,1.0,3,2,Execution/Drift
+220,False,[],2026-06-28T18:03:10.197Z,ACTION,1.0,0,2,Execution/Drift
+221,False,[],2026-06-28T18:03:19.345Z,ACTION,1.0,0,2,Execution/Drift
+222,False,[],2026-06-28T18:03:37.465Z,INFERRED,0.85,4,2,Execution/Drift
+223,False,[],2026-06-28T18:05:50.025Z,ACTION,1.0,0,2,Execution/Drift
+224,False,[],2026-06-28T18:05:55.170Z,GROUNDED,1.0,3,2,Execution/Drift
+225,False,[],2026-06-28T18:06:06.062Z,ACTION,1.0,0,2,Execution/Drift
+226,False,[],2026-06-28T18:06:24.223Z,GROUNDED,1.0,3,2,Execution/Drift
+227,False,[],2026-06-28T18:22:48.172Z,ACTION,1.0,0,2,Execution/Drift
+228,False,[],2026-06-28T18:26:26.198Z,ACTION,1.0,0,2,Execution/Drift
+229,False,[],2026-06-28T18:26:33.867Z,INFERRED,0.9,4,2,Execution/Drift
+230,False,[],2026-06-28T18:26:47.734Z,ACTION,1.0,0,2,Execution/Drift
+231,False,[],2026-06-28T18:27:27.515Z,MIXED,0.9,5,2,Execution/Drift
+232,False,[],2026-06-28T18:28:46.351Z,INFERRED,0.9,4,2,Execution/Drift
+233,False,[],2026-06-28T18:29:18.276Z,ACTION,1.0,0,2,Execution/Drift
+234,False,[],2026-06-28T18:29:32.932Z,INFERRED,0.9,4,2,Execution/Drift
+235,False,[],2026-06-28T18:30:07.897Z,ACTION,0.9,0,2,Execution/Drift
+236,False,[],2026-06-28T18:30:18.830Z,ACTION,0.9,0,2,Execution/Drift
+237,False,[],2026-06-28T18:30:40.442Z,INFERRED,0.9,4,2,Execution/Drift
+238,False,[],2026-06-28T18:31:05.119Z,GROUNDED,1.0,3,2,Execution/Drift
+239,False,[],2026-06-28T18:31:32.022Z,ACTION,1.0,0,2,Execution/Drift
+240,False,[],2026-06-28T18:31:38.450Z,ACTION,1.0,0,2,Execution/Drift
+241,False,[],2026-06-28T18:31:49.103Z,GROUNDED,1.0,3,2,Execution/Drift
+242,False,[],2026-06-28T18:41:00.096Z,ACTION,1.0,0,2,Execution/Drift
+243,False,[],2026-06-28T18:41:07.427Z,INFERRED,0.9,4,2,Execution/Drift
+244,False,[],2026-06-28T18:41:13.368Z,MIXED,0.9,5,2,Execution/Drift
+245,False,[],2026-06-28T18:41:25.773Z,ACTION,1.0,0,2,Execution/Drift
+246,False,[],2026-06-28T18:41:37.584Z,INFERRED,0.9,4,2,Execution/Drift
+247,False,[],2026-06-28T18:43:55.053Z,ACTION,0.9,0,0,Active Reasoning
+248,False,[],2026-06-28T18:44:08.584Z,GROUNDED,1.0,3,1,Evidence-Grounded
+249,False,[],2026-06-28T18:44:24.610Z,ACTION,1.0,0,0,Active Reasoning
+250,False,[],2026-06-28T18:44:58.191Z,GROUNDED,1.0,3,1,Evidence-Grounded
+251,False,[],2026-06-28T18:45:33.255Z,GROUNDED,0.9,3,0,Active Reasoning
+252,False,[],2026-06-28T18:46:34.182Z,GROUNDED,1.0,3,1,Evidence-Grounded
+253,False,[],2026-06-28T18:47:02.149Z,INFERRED,0.9,4,0,Active Reasoning
+254,False,[],2026-06-28T18:48:18.599Z,GROUNDED,0.9,3,1,Evidence-Grounded
+255,False,[],2026-06-28T18:49:01.705Z,GROUNDED,1.0,3,0,Active Reasoning
+256,False,[],2026-06-28T18:50:09.547Z,ACTION,1.0,0,1,Evidence-Grounded
+257,False,[],2026-06-28T18:50:22.021Z,GROUNDED,1.0,3,0,Active Reasoning
+258,False,[],2026-06-28T18:51:09.993Z,GROUNDED,0.9,3,1,Evidence-Grounded
+259,False,[],2026-06-28T18:52:20.202Z,ACTION,1.0,0,0,Active Reasoning
+260,False,[],2026-06-28T18:53:09.352Z,GROUNDED,0.95,3,1,Evidence-Grounded
+261,False,[],2026-06-28T18:56:41.615Z,MIXED,0.9,5,0,Active Reasoning
+262,False,[],2026-06-28T18:57:11.282Z,GROUNDED,1.0,3,1,Evidence-Grounded
+263,False,[],2026-06-28T18:57:54.714Z,GROUNDED,1.0,3,0,Active Reasoning
+264,False,[],2026-06-28T18:58:20.917Z,ACTION,0.9,0,1,Evidence-Grounded
+265,False,[],2026-06-28T18:58:38.650Z,ASSERTED,0.9,1,0,Active Reasoning
+266,False,[],2026-06-28T18:59:32.447Z,INFERRED,0.9,4,1,Evidence-Grounded
+267,False,[],2026-06-28T19:55:20.499Z,ASSERTED,0.9,1,0,Active Reasoning
+268,False,[],2026-06-28T19:55:46.963Z,ACTION,0.9,0,1,Evidence-Grounded
+269,False,[],2026-06-28T19:56:21.123Z,ACTION,1.0,0,0,Active Reasoning
+270,False,[],2026-06-28T19:57:32.601Z,INFERRED,0.9,4,1,Evidence-Grounded
+271,False,[],2026-06-28T19:57:46.437Z,INFERRED,0.9,4,0,Active Reasoning
+272,False,[],2026-06-28T19:58:03.839Z,GROUNDED,1.0,3,1,Evidence-Grounded
+273,False,[],2026-06-28T19:58:33.297Z,GROUNDED,1.0,3,0,Active Reasoning
+274,False,[],2026-06-28T19:59:12.919Z,GROUNDED,1.0,3,1,Evidence-Grounded
+275,False,[],2026-06-28T19:59:34.208Z,GROUNDED,1.0,3,0,Active Reasoning
+276,False,[],2026-06-28T20:00:04.384Z,GROUNDED,1.0,3,1,Evidence-Grounded
+277,False,[],2026-06-28T20:00:08.984Z,ACTION,1.0,0,2,Execution/Drift
+278,False,[],2026-06-28T20:00:24.058Z,MIXED,0.9,5,2,Execution/Drift
+279,False,[],2026-06-28T20:01:24.273Z,ACTION,1.0,0,2,Execution/Drift
+280,False,[],2026-06-28T20:01:55.653Z,INFERRED,0.9,4,2,Execution/Drift
+281,False,[],2026-06-28T20:02:17.736Z,ACTION,1.0,0,2,Execution/Drift
+282,False,[],2026-06-28T20:03:12.736Z,CORRECTING,1.0,2,2,Execution/Drift
+283,False,[],2026-06-28T20:03:58.684Z,ACTION,0.9,0,2,Execution/Drift
+284,False,[],2026-06-28T20:04:06.152Z,ACTION,0.9,0,2,Execution/Drift
+285,False,[],2026-06-28T20:04:11.666Z,ACTION,1.0,0,2,Execution/Drift
+286,False,[],2026-06-28T20:04:45.367Z,MIXED,0.9,5,2,Execution/Drift
+287,False,[],2026-06-28T20:26:13.359Z,ACTION,0.9,0,0,Active Reasoning
+288,False,[],2026-06-28T20:26:41.821Z,GROUNDED,1.0,3,1,Evidence-Grounded
+289,False,[],2026-06-28T20:28:09.210Z,GROUNDED,1.0,3,0,Active Reasoning
+290,False,[],2026-06-28T20:28:31.291Z,ACTION,1.0,0,1,Evidence-Grounded
+291,False,[],2026-06-28T20:28:58.201Z,INFERRED,0.9,4,0,Active Reasoning
+292,False,[],2026-06-28T20:29:46.068Z,GROUNDED,1.0,3,1,Evidence-Grounded
+293,False,[],2026-06-28T20:30:13.884Z,ACTION,1.0,0,0,Active Reasoning
+294,False,[],2026-06-28T20:30:51.142Z,CORRECTING,1.0,2,1,Evidence-Grounded
+295,False,[],2026-06-28T20:31:03.267Z,INFERRED,0.9,4,0,Active Reasoning
+296,False,[],2026-06-28T20:31:16.967Z,INFERRED,0.9,4,1,Evidence-Grounded
+297,False,[],2026-06-28T22:32:43.294Z,ACTION,1.0,0,0,Active Reasoning
+298,False,[],2026-06-28T22:32:58.235Z,GROUNDED,1.0,3,1,Evidence-Grounded
+299,False,[],2026-06-28T22:47:46.198Z,GROUNDED,1.0,3,0,Active Reasoning
+300,False,[],2026-06-28T22:49:34.593Z,CORRECTING,0.9,2,1,Evidence-Grounded
+301,False,[],2026-06-28T22:49:48.100Z,GROUNDED,1.0,3,0,Active Reasoning
+302,False,[],2026-06-28T22:50:09.000Z,GROUNDED,1.0,3,1,Evidence-Grounded
+303,False,[],2026-06-28T22:50:37.004Z,GROUNDED,1.0,3,0,Active Reasoning
+304,False,[],2026-06-28T22:51:02.190Z,GROUNDED,1.0,3,1,Evidence-Grounded
+305,False,[],2026-06-28T22:54:36.701Z,INFERRED,0.9,4,0,Active Reasoning
+306,False,[],2026-06-28T23:06:02.470Z,ACTION,1.0,0,1,Evidence-Grounded
+307,False,[],2026-06-28T23:06:10.834Z,MIXED,0.9,5,0,Active Reasoning
+308,False,[],2026-06-28T23:08:19.221Z,ACTION,1.0,0,1,Evidence-Grounded
+309,False,[],2026-06-28T23:08:31.115Z,GROUNDED,1.0,3,0,Active Reasoning
+310,False,[],2026-06-28T23:10:05.217Z,ACTION,1.0,0,1,Evidence-Grounded
+311,False,[],2026-06-28T23:10:34.220Z,GROUNDED,0.9,3,0,Active Reasoning
+312,False,[],2026-06-28T23:11:07.866Z,ACTION,0.9,0,1,Evidence-Grounded
+313,False,[],2026-06-28T23:11:18.351Z,GROUNDED,1.0,3,0,Active Reasoning
+314,False,[],2026-06-28T23:11:35.556Z,GROUNDED,1.0,3,1,Evidence-Grounded
+315,False,[],2026-06-28T23:13:46.462Z,ACTION,1.0,0,2,Execution/Drift
+316,False,[],2026-06-28T23:14:02.134Z,INFERRED,0.9,4,2,Execution/Drift
+317,False,[],2026-06-28T23:14:13.177Z,INFERRED,0.9,4,2,Execution/Drift
+318,False,[],2026-06-28T23:14:45.865Z,MIXED,0.9,5,2,Execution/Drift
+319,False,[],2026-06-28T23:15:29.335Z,GROUNDED,0.9,3,2,Execution/Drift
+320,False,[],2026-06-28T23:16:09.673Z,INFERRED,0.9,4,2,Execution/Drift
+321,False,[],2026-06-28T23:17:15.580Z,ACTION,1.0,0,2,Execution/Drift
+322,False,[],2026-06-28T23:17:26.295Z,ACTION,1.0,0,2,Execution/Drift
+323,False,[],2026-06-28T23:19:01.374Z,CORRECTING,1.0,2,2,Execution/Drift
+324,False,[],2026-06-28T23:19:13.079Z,ACTION,1.0,0,2,Execution/Drift
+325,False,[],2026-06-28T23:19:26.695Z,GROUNDED,0.9,3,2,Execution/Drift
+326,False,[],2026-06-28T23:19:34.891Z,MIXED,0.9,5,2,Execution/Drift
+327,False,[],2026-06-28T23:20:09.404Z,ACTION,0.9,0,2,Execution/Drift
+328,False,[],2026-06-28T23:20:23.084Z,GROUNDED,1.0,3,2,Execution/Drift
+329,False,[],2026-06-28T23:22:11.666Z,ACTION,0.9,0,2,Execution/Drift
+330,False,[],2026-06-28T23:22:30.782Z,INFERRED,0.9,4,2,Execution/Drift
+331,False,[],2026-06-28T23:22:55.596Z,MIXED,0.9,5,2,Execution/Drift
+332,False,[],2026-06-28T23:23:24.927Z,GROUNDED,0.95,3,2,Execution/Drift
+333,False,[],2026-06-28T23:24:42.266Z,GROUNDED,1.0,3,2,Execution/Drift
+334,False,[],2026-06-29T00:03:29.391Z,ACTION,1.0,0,2,Execution/Drift
+335,False,[],2026-06-29T00:03:40.437Z,MIXED,0.9,5,2,Execution/Drift
+336,False,[],2026-06-29T00:05:16.776Z,GROUNDED,1.0,3,2,Execution/Drift
+337,False,[],2026-06-29T00:05:45.945Z,INFERRED,0.9,4,2,Execution/Drift
+338,False,[],2026-06-29T00:06:57.405Z,ACTION,1.0,0,2,Execution/Drift
+339,False,[],2026-06-29T00:07:11.216Z,MIXED,0.9,5,2,Execution/Drift
+340,False,[],2026-06-29T00:07:49.216Z,ACTION,1.0,0,2,Execution/Drift
+341,False,[],2026-06-29T00:08:16.933Z,MIXED,0.9,5,2,Execution/Drift
+342,False,[],2026-06-29T00:26:14.240Z,ACTION,0.9,0,2,Execution/Drift
+343,False,[],2026-06-29T00:26:21.110Z,GROUNDED,1.0,3,2,Execution/Drift
+344,False,[],2026-06-29T00:26:36.863Z,GROUNDED,1.0,3,2,Execution/Drift
+345,False,[],2026-06-29T00:27:29.710Z,MIXED,0.9,5,2,Execution/Drift
+346,False,[],2026-06-29T00:28:18.144Z,MIXED,0.9,5,2,Execution/Drift
+347,False,[],2026-06-29T00:29:56.697Z,INFERRED,0.9,4,2,Execution/Drift
+348,False,[],2026-06-29T00:31:04.142Z,GROUNDED,0.9,3,2,Execution/Drift
+349,False,[],2026-06-29T00:32:21.692Z,MIXED,0.9,5,2,Execution/Drift
+350,False,[],2026-06-29T00:32:47.762Z,ACTION,1.0,0,2,Execution/Drift
+351,False,[],2026-06-29T00:34:04.541Z,INFERRED,0.9,4,2,Execution/Drift
+352,False,[],2026-06-29T00:36:22.113Z,ACTION,0.95,0,2,Execution/Drift
+353,False,[],2026-06-29T00:37:47.728Z,GROUNDED,1.0,3,2,Execution/Drift
+354,False,[],2026-06-29T00:39:07.888Z,ACTION,1.0,0,2,Execution/Drift
+355,False,[],2026-06-29T00:39:21.403Z,ACTION,0.9,0,2,Execution/Drift
+356,False,[],2026-06-29T00:39:33.850Z,ACTION,1.0,0,2,Execution/Drift
+357,False,[],2026-06-29T00:39:48.531Z,ACTION,0.9,0,2,Execution/Drift
+358,False,[],2026-06-29T00:39:58.559Z,INFERRED,0.9,4,0,Active Reasoning
+359,False,[],2026-06-29T00:48:33.664Z,GROUNDED,1.0,3,1,Evidence-Grounded
+360,False,[],2026-06-29T01:10:23.651Z,GROUNDED,1.0,3,0,Active Reasoning
+361,False,[],2026-06-29T01:14:37.415Z,ACTION,1.0,0,1,Evidence-Grounded
+362,False,[],2026-06-29T01:15:38.448Z,GROUNDED,1.0,3,0,Active Reasoning
+363,False,[],2026-06-29T01:15:44.287Z,GROUNDED,1.0,3,1,Evidence-Grounded
+364,False,[],2026-06-29T01:16:13.348Z,INFERRED,0.9,4,0,Active Reasoning
+365,False,[],2026-06-29T01:16:36.815Z,INFERRED,0.9,4,1,Evidence-Grounded
+366,False,[],2026-06-29T01:16:55.739Z,GROUNDED,1.0,3,0,Active Reasoning
+367,False,[],2026-06-29T01:17:09.441Z,INFERRED,0.9,4,1,Evidence-Grounded
+368,False,[],2026-06-29T01:19:42.317Z,ACTION,1.0,0,0,Active Reasoning
+369,False,[],2026-06-29T01:20:05.066Z,GROUNDED,1.0,3,1,Evidence-Grounded
+370,False,[],2026-06-29T01:23:31.298Z,ACTION,1.0,0,2,Execution/Drift
+371,False,[],2026-06-29T01:23:49.525Z,MIXED,0.9,5,2,Execution/Drift
+372,False,[],2026-06-29T01:25:44.845Z,ACTION,1.0,0,2,Execution/Drift
+373,False,[],2026-06-29T01:26:03.808Z,GROUNDED,1.0,3,2,Execution/Drift
+374,False,[],2026-06-29T01:28:50.466Z,GROUNDED,1.0,3,2,Execution/Drift
+375,False,[],2026-06-29T01:29:38.055Z,MIXED,0.9,5,2,Execution/Drift
+376,False,[],2026-06-29T01:29:52.658Z,ACTION,1.0,0,2,Execution/Drift
+377,False,[],2026-06-29T01:31:02.229Z,INFERRED,0.9,4,2,Execution/Drift
+378,False,[],2026-06-29T01:32:33.577Z,ACTION,1.0,0,2,Execution/Drift
+379,False,[],2026-06-29T01:32:57.931Z,GROUNDED,1.0,3,2,Execution/Drift
+380,False,[],2026-06-29T01:34:04.117Z,MIXED,0.9,5,2,Execution/Drift
+381,False,[],2026-06-29T01:35:35.875Z,ACTION,1.0,0,2,Execution/Drift
+382,False,[],2026-06-29T01:36:16.923Z,INFERRED,0.9,4,2,Execution/Drift
+383,False,[],2026-06-29T01:37:29.124Z,MIXED,0.95,5,2,Execution/Drift
+384,False,[],2026-06-29T01:41:08.141Z,ACTION,1.0,0,2,Execution/Drift
+385,False,[],2026-06-29T01:41:54.204Z,GROUNDED,0.9,3,0,Active Reasoning
+386,False,[],2026-06-29T01:42:25.868Z,GROUNDED,0.95,3,1,Evidence-Grounded
+387,False,[],2026-06-29T01:45:17.710Z,INFERRED,0.9,4,0,Active Reasoning
+388,False,[],2026-06-29T01:46:02.273Z,GROUNDED,1.0,3,1,Evidence-Grounded
+389,False,[],2026-06-29T01:49:05.349Z,ACTION,1.0,0,0,Active Reasoning
+390,False,[],2026-06-29T01:49:34.430Z,ACTION,0.95,0,1,Evidence-Grounded
+391,False,[],2026-06-29T01:50:33.396Z,GROUNDED,0.9,3,0,Active Reasoning
+392,False,[],2026-06-29T01:50:56.550Z,GROUNDED,1.0,3,1,Evidence-Grounded
+393,False,[],2026-06-29T01:55:28.944Z,GROUNDED,1.0,3,0,Active Reasoning
+394,False,[],2026-06-29T12:16:48.311Z,GROUNDED,1.0,3,1,Evidence-Grounded
+395,False,[],2026-06-29T12:17:38.777Z,ACTION,0.9,0,2,Execution/Drift
+396,False,[],2026-06-29T12:18:05.911Z,ACTION,1.0,0,2,Execution/Drift
+397,False,[],2026-06-29T12:18:17.978Z,ACTION,1.0,0,2,Execution/Drift
+398,False,[],2026-06-29T12:19:29.054Z,ACTION,1.0,0,2,Execution/Drift
+399,False,[],2026-06-29T12:20:12.389Z,GROUNDED,1.0,3,0,Active Reasoning
+400,False,[],2026-06-29T12:20:43.729Z,ACTION,1.0,0,1,Evidence-Grounded
+401,False,[],2026-06-29T12:21:22.730Z,GROUNDED,1.0,3,0,Active Reasoning
+402,False,[],2026-06-29T12:21:59.438Z,GROUNDED,0.9,3,1,Evidence-Grounded
+403,False,[],2026-06-29T12:23:00.534Z,GROUNDED,1.0,3,0,Active Reasoning
+404,False,[],2026-06-29T12:24:34.429Z,INFERRED,0.9,4,1,Evidence-Grounded
+405,False,[],2026-06-29T12:25:10.388Z,ACTION,0.9,0,0,Active Reasoning
+406,False,[],2026-06-29T12:25:27.272Z,GROUNDED,1.0,3,1,Evidence-Grounded
+407,False,[],2026-06-29T12:25:43.909Z,ACTION,0.9,0,2,Execution/Drift
+408,False,[],2026-06-29T12:25:58.383Z,ACTION,0.9,0,2,Execution/Drift
+409,False,[],2026-06-29T12:26:17.105Z,GROUNDED,0.9,3,2,Execution/Drift
+410,False,[],2026-06-29T12:26:59.027Z,MIXED,0.9,5,2,Execution/Drift
+411,False,[],2026-06-29T12:27:36.739Z,ACTION,1.0,0,2,Execution/Drift
+412,False,[],2026-06-29T12:28:27.903Z,ACTION,1.0,0,2,Execution/Drift
+413,False,[],2026-06-29T12:28:47.168Z,GROUNDED,0.9,3,2,Execution/Drift
+414,False,[],2026-06-29T12:29:43.363Z,CORRECTING,1.0,2,2,Execution/Drift
+415,False,[],2026-06-29T12:30:04.900Z,CORRECTING,1.0,2,2,Execution/Drift
+416,False,[],2026-06-29T12:30:43.867Z,GROUNDED,1.0,3,0,Active Reasoning
+417,False,[],2026-06-29T12:31:19.223Z,GROUNDED,0.9,3,1,Evidence-Grounded
+418,False,[],2026-06-29T12:32:17.368Z,INFERRED,0.9,4,0,Active Reasoning
+419,False,[],2026-06-29T12:33:23.920Z,GROUNDED,1.0,3,1,Evidence-Grounded
+420,False,[],2026-06-29T12:37:30.936Z,ACTION,0.9,0,0,Active Reasoning
+421,False,[],2026-06-29T12:39:00.438Z,GROUNDED,1.0,3,1,Evidence-Grounded
+422,False,[],2026-06-29T12:39:34.849Z,MIXED,0.9,5,0,Active Reasoning
+423,False,[],2026-06-29T12:40:23.391Z,GROUNDED,1.0,3,1,Evidence-Grounded
+424,False,[],2026-06-29T12:46:21.383Z,INFERRED,0.9,4,0,Active Reasoning
+425,False,[],2026-06-29T12:46:48.823Z,INFERRED,0.9,4,1,Evidence-Grounded
+426,False,[],2026-06-29T12:48:30.250Z,GROUNDED,1.0,3,0,Active Reasoning
+427,False,[],2026-06-29T12:48:54.565Z,GROUNDED,1.0,3,1,Evidence-Grounded
+428,False,[],2026-06-29T12:58:43.731Z,INFERRED,0.9,4,0,Active Reasoning
+429,False,[],2026-06-29T12:59:46.907Z,GROUNDED,1.0,3,1,Evidence-Grounded
+430,False,[],2026-06-29T13:03:03.951Z,GROUNDED,0.95,3,0,Active Reasoning
+431,False,[],2026-06-29T13:06:35.092Z,GROUNDED,1.0,3,1,Evidence-Grounded
+432,False,[],2026-06-29T13:07:35.939Z,ACTION,1.0,0,2,Execution/Drift
+433,False,[],2026-06-29T13:09:53.424Z,INFERRED,0.9,4,2,Execution/Drift
+434,False,[],2026-06-29T13:11:02.410Z,GROUNDED,1.0,3,2,Execution/Drift
+435,False,[],2026-06-29T13:11:16.922Z,ACTION,1.0,0,2,Execution/Drift
+436,False,[],2026-06-29T13:14:31.461Z,MIXED,0.9,5,2,Execution/Drift
+437,False,[],2026-06-29T13:14:51.419Z,MIXED,0.9,5,0,Active Reasoning
+438,False,[],2026-06-29T13:16:17.665Z,GROUNDED,0.95,3,1,Evidence-Grounded
+439,False,[],2026-06-29T13:22:52.139Z,ACTION,0.9,0,0,Active Reasoning
+440,False,[],2026-06-29T13:23:29.735Z,GROUNDED,1.0,3,1,Evidence-Grounded
+441,False,[],2026-06-29T13:24:32.564Z,GROUNDED,1.0,3,0,Active Reasoning
+442,False,[],2026-06-29T13:26:35.349Z,INFERRED,0.9,4,1,Evidence-Grounded
+443,False,[],2026-06-29T13:28:58.396Z,ACTION,1.0,0,0,Active Reasoning
+444,False,[],2026-06-29T13:29:37.110Z,GROUNDED,1.0,3,1,Evidence-Grounded
+445,False,[],2026-06-29T13:30:07.733Z,ACTION,1.0,0,2,Execution/Drift
+446,False,[],2026-06-29T13:30:23.805Z,MIXED,0.9,5,2,Execution/Drift
+447,False,[],2026-06-29T13:30:52.175Z,INFERRED,0.9,4,2,Execution/Drift
+448,False,[],2026-06-29T13:36:12.449Z,ACTION,0.9,0,2,Execution/Drift
+449,False,[],2026-06-29T13:38:48.639Z,INFERRED,0.9,4,2,Execution/Drift
+450,False,[],2026-06-29T13:39:06.048Z,ACTION,1.0,0,2,Execution/Drift
+451,False,[],2026-06-29T13:46:49.073Z,ACTION,0.9,0,2,Execution/Drift
+452,False,[],2026-06-29T13:47:17.595Z,GROUNDED,1.0,3,0,Active Reasoning
+453,False,[],2026-06-29T13:48:46.109Z,GROUNDED,1.0,3,1,Evidence-Grounded
+454,False,[],2026-06-29T13:50:04.335Z,GROUNDED,1.0,3,0,Active Reasoning
+455,False,[],2026-06-29T13:52:22.515Z,INFERRED,0.9,4,1,Evidence-Grounded
+456,False,[],2026-06-29T13:53:50.959Z,MIXED,0.9,5,0,Active Reasoning
+457,False,[],2026-06-29T13:54:27.429Z,ACTION,1.0,0,1,Evidence-Grounded
+458,False,[],2026-06-29T13:54:43.571Z,GROUNDED,1.0,3,0,Active Reasoning
+459,False,[],2026-06-29T13:55:43.941Z,GROUNDED,1.0,3,1,Evidence-Grounded
+460,False,[],2026-06-29T13:56:22.879Z,ACTION,1.0,0,2,Execution/Drift
+461,False,[],2026-06-29T13:59:43.963Z,ACTION,1.0,0,2,Execution/Drift
+462,False,[],2026-06-29T14:00:31.284Z,ACTION,1.0,0,2,Execution/Drift
+463,False,[],2026-06-29T14:01:49.117Z,GROUNDED,1.0,3,0,Active Reasoning
+464,False,[],2026-06-29T14:02:03.839Z,CORRECTING,1.0,2,1,Evidence-Grounded
+465,False,[],2026-06-29T14:02:45.255Z,INFERRED,0.85,4,0,Active Reasoning
+466,False,[],2026-06-29T14:05:43.080Z,GROUNDED,1.0,3,1,Evidence-Grounded
+467,False,[],2026-06-29T14:07:17.216Z,INFERRED,0.9,4,0,Active Reasoning
+468,False,[],2026-06-29T14:12:28.800Z,GROUNDED,1.0,3,1,Evidence-Grounded
+469,False,[],2026-06-29T14:15:50.636Z,INFERRED,0.9,4,0,Active Reasoning
+470,False,[],2026-06-29T14:16:58.775Z,ACTION,1.0,0,1,Evidence-Grounded
+471,False,[],2026-06-29T14:17:24.217Z,GROUNDED,1.0,3,0,Active Reasoning
+472,False,[],2026-06-29T14:18:01.315Z,ACTION,1.0,0,1,Evidence-Grounded
+473,False,[],2026-06-29T14:23:43.760Z,GROUNDED,1.0,3,0,Active Reasoning
+474,False,[],2026-06-29T14:24:55.782Z,GROUNDED,1.0,3,1,Evidence-Grounded
+475,False,[],2026-06-29T14:36:08.076Z,ACTION,1.0,0,0,Active Reasoning
+476,False,[],2026-06-29T14:37:05.175Z,INFERRED,0.9,4,1,Evidence-Grounded
+477,False,[],2026-06-29T14:38:02.347Z,GROUNDED,1.0,3,0,Active Reasoning
+478,False,[],2026-06-29T14:39:33.694Z,ACTION,0.9,0,1,Evidence-Grounded
+479,False,[],2026-06-29T14:39:57.341Z,INFERRED,0.9,4,0,Active Reasoning
+480,False,[],2026-06-29T14:44:13.558Z,ACTION,0.9,0,1,Evidence-Grounded
+481,False,[],2026-06-29T14:44:40.590Z,GROUNDED,1.0,3,0,Active Reasoning
+482,False,[],2026-06-29T14:45:37.331Z,GROUNDED,0.9,3,1,Evidence-Grounded
+483,False,[],2026-06-29T14:47:00.585Z,GROUNDED,1.0,3,0,Active Reasoning
+484,False,[],2026-06-29T14:47:43.049Z,INFERRED,0.9,4,1,Evidence-Grounded
+485,False,[],2026-06-29T14:48:18.388Z,GROUNDED,0.95,3,0,Active Reasoning
+486,False,[],2026-06-29T14:49:00.860Z,GROUNDED,1.0,3,1,Evidence-Grounded
+487,False,[],2026-06-29T14:49:53.277Z,ACTION,0.9,0,0,Active Reasoning
+488,False,[],2026-06-29T14:50:25.587Z,INFERRED,0.9,4,1,Evidence-Grounded
+489,False,[],2026-06-29T14:51:11.718Z,GROUNDED,0.95,3,0,Active Reasoning
+490,False,[],2026-06-29T14:52:01.933Z,GROUNDED,1.0,3,1,Evidence-Grounded
+491,False,[],2026-06-29T14:52:35.102Z,MIXED,0.95,5,2,Execution/Drift
+492,False,[],2026-06-29T14:54:35.491Z,ACTION,1.0,0,2,Execution/Drift
+493,False,[],2026-06-29T14:54:51.204Z,ACTION,1.0,0,2,Execution/Drift
+494,False,[],2026-06-29T14:55:04.357Z,GROUNDED,0.9,3,0,Active Reasoning
+495,False,[],2026-06-29T14:55:50.730Z,INFERRED,0.9,4,1,Evidence-Grounded
+496,False,[],2026-06-29T14:57:13.554Z,INFERRED,0.9,4,0,Active Reasoning
+497,False,[],2026-06-29T14:58:03.310Z,GROUNDED,0.9,3,1,Evidence-Grounded
+498,False,[],2026-06-29T15:00:44.519Z,INFERRED,0.9,4,0,Active Reasoning
+499,False,[],2026-06-29T15:03:28.536Z,ACTION,1.0,0,1,Evidence-Grounded
+500,False,[],2026-06-29T15:04:04.981Z,INFERRED,0.9,4,0,Active Reasoning
+501,False,[],2026-06-29T15:06:08.646Z,GROUNDED,0.95,3,1,Evidence-Grounded
+502,False,[],2026-06-29T15:07:36.408Z,MIXED,0.9,5,2,Execution/Drift
+503,False,[],2026-06-29T15:08:56.441Z,ACTION,1.0,0,2,Execution/Drift
+504,False,[],2026-06-29T15:09:28.098Z,ACTION,1.0,0,2,Execution/Drift
+505,False,[],2026-06-29T15:09:32.255Z,ACTION,1.0,0,2,Execution/Drift
+506,False,[],2026-06-29T15:10:04.514Z,ACTION,1.0,0,2,Execution/Drift
+507,False,[],2026-06-29T15:10:34.121Z,ACTION,1.0,0,2,Execution/Drift
+508,False,[],2026-06-29T15:10:50.045Z,ACTION,1.0,0,2,Execution/Drift
+509,False,[],2026-06-29T15:11:02.455Z,ACTION,1.0,0,2,Execution/Drift
+510,False,[],2026-06-29T15:11:42.305Z,GROUNDED,1.0,3,2,Execution/Drift
+511,False,[],2026-06-29T15:12:22.862Z,GROUNDED,0.95,3,2,Execution/Drift
+512,False,[],2026-06-29T15:15:59.059Z,ASSERTED,0.9,1,2,Execution/Drift
+513,False,[],2026-06-29T15:23:16.860Z,INFERRED,0.9,4,2,Execution/Drift
+514,False,[],2026-06-29T15:25:43.931Z,INFERRED,0.9,4,2,Execution/Drift
+515,False,[],2026-06-29T15:47:15.450Z,ACTION,0.95,0,2,Execution/Drift
+516,False,[],2026-06-29T15:48:47.667Z,CORRECTING,1.0,2,2,Execution/Drift
+517,False,[],2026-06-29T15:50:06.295Z,ACTION,1.0,0,2,Execution/Drift
+518,False,[],2026-06-29T15:50:32.203Z,INFERRED,0.9,4,0,Active Reasoning
+519,False,[],2026-06-29T15:51:48.842Z,GROUNDED,1.0,3,1,Evidence-Grounded
+520,False,[],2026-06-29T15:54:14.718Z,INFERRED,0.9,4,0,Active Reasoning
+521,False,[],2026-06-29T15:57:08.083Z,GROUNDED,1.0,3,1,Evidence-Grounded
+522,False,[],2026-06-29T15:58:03.480Z,GROUNDED,0.95,3,0,Active Reasoning
+523,False,[],2026-06-29T15:58:37.788Z,GROUNDED,1.0,3,1,Evidence-Grounded
+524,False,[],2026-06-29T15:59:31.696Z,INFERRED,0.9,4,0,Active Reasoning
+525,False,[],2026-06-29T15:59:52.956Z,GROUNDED,0.9,3,1,Evidence-Grounded
+526,False,[],2026-06-29T16:01:33.438Z,INFERRED,0.9,4,0,Active Reasoning
+527,False,[],2026-06-29T16:02:14.271Z,GROUNDED,1.0,3,1,Evidence-Grounded
+528,False,[],2026-06-29T16:02:46.102Z,GROUNDED,1.0,3,0,Active Reasoning
+529,False,[],2026-06-29T16:04:38.460Z,INFERRED,0.9,4,1,Evidence-Grounded
+530,False,[],2026-06-29T16:06:13.531Z,ACTION,0.9,0,2,Execution/Drift
+531,False,[],2026-06-29T16:06:37.186Z,ACTION,0.9,0,2,Execution/Drift
+532,False,[],2026-06-29T16:11:16.371Z,CORRECTING,1.0,2,2,Execution/Drift
+533,False,[],2026-06-29T16:17:58.573Z,INFERRED,0.9,4,2,Execution/Drift
+534,False,[],2026-06-29T16:19:15.657Z,GROUNDED,1.0,3,2,Execution/Drift
+535,False,[],2026-06-29T16:22:52.404Z,ACTION,1.0,0,2,Execution/Drift
+536,False,[],2026-06-29T16:28:19.507Z,MIXED,0.9,5,2,Execution/Drift
+537,False,[],2026-06-29T16:33:16.192Z,ACTION,1.0,0,2,Execution/Drift
+538,False,[],2026-06-29T16:38:50.390Z,INFERRED,0.9,4,0,Active Reasoning
+539,False,[],2026-06-29T16:40:40.768Z,INFERRED,0.9,4,1,Evidence-Grounded
+540,False,[],2026-06-29T16:41:33.997Z,MIXED,0.9,5,0,Active Reasoning
+541,False,[],2026-06-29T16:42:09.530Z,INFERRED,0.9,4,1,Evidence-Grounded
+542,False,[],2026-06-29T16:44:11.124Z,ACTION,1.0,0,0,Active Reasoning
+543,False,[],2026-06-29T16:44:53.763Z,GROUNDED,1.0,3,1,Evidence-Grounded
+544,False,[],2026-06-29T16:45:46.619Z,GROUNDED,1.0,3,0,Active Reasoning
+545,False,[],2026-06-29T16:46:12.324Z,GROUNDED,1.0,3,1,Evidence-Grounded
+546,False,[],2026-06-29T16:46:48.896Z,GROUNDED,1.0,3,0,Active Reasoning
+547,False,[],2026-06-29T16:47:09.692Z,INFERRED,0.8,4,1,Evidence-Grounded
+548,False,[],2026-06-29T16:47:36.498Z,ACTION,0.9,0,0,Active Reasoning
+549,False,[],2026-06-29T16:47:56.486Z,GROUNDED,1.0,3,1,Evidence-Grounded
+550,False,[],2026-06-29T16:49:07.900Z,MIXED,0.9,5,2,Execution/Drift
+551,False,[],2026-06-29T16:50:24.509Z,ACTION,1.0,0,2,Execution/Drift
+552,False,[],2026-06-29T16:51:08.483Z,INFERRED,0.8,4,2,Execution/Drift
+553,False,[],2026-06-29T16:51:57.102Z,ACTION,0.9,0,2,Execution/Drift
+554,False,[],2026-06-29T16:52:36.993Z,ACTION,0.9,0,2,Execution/Drift
+555,False,[],2026-06-29T16:53:47.508Z,INFERRED,0.9,4,2,Execution/Drift
+556,False,[],2026-06-29T16:55:16.334Z,ASSERTED,0.9,1,2,Execution/Drift
+557,False,[],2026-06-29T16:56:05.421Z,ACTION,0.9,0,2,Execution/Drift
+558,False,[],2026-06-29T16:56:35.526Z,GROUNDED,0.9,3,0,Active Reasoning
+559,False,[],2026-06-29T16:57:38.714Z,GROUNDED,0.9,3,1,Evidence-Grounded
+560,False,[],2026-06-29T16:59:36.343Z,INFERRED,0.9,4,0,Active Reasoning
+561,False,[],2026-06-29T17:00:45.827Z,GROUNDED,1.0,3,1,Evidence-Grounded
+562,False,[],2026-06-29T17:02:57.425Z,INFERRED,0.9,4,0,Active Reasoning
+563,False,[],2026-06-29T17:04:26.532Z,GROUNDED,1.0,3,1,Evidence-Grounded
+564,False,[],2026-06-29T17:04:47.109Z,ACTION,0.9,0,0,Active Reasoning
+565,False,[],2026-06-29T17:05:38.979Z,INFERRED,0.8,4,1,Evidence-Grounded
+566,False,[],2026-06-29T17:06:47.968Z,GROUNDED,1.0,3,0,Active Reasoning
+567,False,[],2026-06-29T17:08:14.513Z,ACTION,0.9,0,1,Evidence-Grounded
+568,False,[],2026-06-29T17:09:43.434Z,GROUNDED,1.0,3,0,Active Reasoning
+569,False,[],2026-06-29T17:10:14.728Z,GROUNDED,1.0,3,1,Evidence-Grounded
+570,False,[],2026-06-29T17:10:59.377Z,GROUNDED,1.0,3,0,Active Reasoning
+571,False,[],2026-06-29T17:11:25.037Z,ACTION,1.0,0,1,Evidence-Grounded
+572,False,[],2026-06-29T17:14:58.727Z,INFERRED,0.9,4,0,Active Reasoning
+573,False,[],2026-06-29T17:18:42.266Z,GROUNDED,0.9,3,1,Evidence-Grounded
+574,False,[],2026-06-29T17:18:58.881Z,ACTION,0.9,0,0,Active Reasoning
+575,False,[],2026-06-29T17:20:29.127Z,ACTION,0.9,0,1,Evidence-Grounded
+576,False,[],2026-06-29T17:20:53.263Z,GROUNDED,1.0,3,0,Active Reasoning
+577,False,[],2026-06-29T17:21:29.144Z,GROUNDED,1.0,3,1,Evidence-Grounded
+578,False,[],2026-06-29T17:21:43.451Z,GROUNDED,1.0,3,0,Active Reasoning
+579,False,[],2026-06-29T17:22:23.472Z,GROUNDED,1.0,3,1,Evidence-Grounded
+580,False,[],2026-06-29T17:22:42.918Z,GROUNDED,1.0,3,0,Active Reasoning
+581,False,[],2026-06-29T17:24:05.392Z,GROUNDED,1.0,3,1,Evidence-Grounded
+582,False,[],2026-06-29T17:24:18.312Z,ACTION,1.0,0,2,Execution/Drift
+583,False,[],2026-06-29T17:24:27.552Z,ACTION,1.0,0,2,Execution/Drift
+584,False,[],2026-06-29T17:25:23.780Z,MIXED,0.9,5,2,Execution/Drift
+585,False,[],2026-06-29T17:25:49.010Z,GROUNDED,1.0,3,2,Execution/Drift
+586,False,[],2026-06-29T17:25:57.344Z,CORRECTING,1.0,2,2,Execution/Drift
+587,False,[],2026-06-29T17:26:15.674Z,ACTION,1.0,0,2,Execution/Drift
+588,False,[],2026-06-29T17:27:16.805Z,INFERRED,0.9,4,2,Execution/Drift
+589,False,[],2026-06-29T17:28:00.282Z,ACTION,1.0,0,2,Execution/Drift
+590,False,[],2026-06-29T17:30:43.226Z,ASSERTED,0.9,1,2,Execution/Drift
+591,False,[],2026-06-29T17:31:19.802Z,ACTION,0.9,0,2,Execution/Drift
+592,False,[],2026-06-29T17:34:16.191Z,ACTION,1.0,0,2,Execution/Drift
+593,False,[],2026-06-29T17:34:48.502Z,CORRECTING,1.0,2,2,Execution/Drift
+594,False,[],2026-06-29T17:34:53.430Z,ACTION,1.0,0,2,Execution/Drift
+595,False,[],2026-06-29T17:35:48.608Z,ACTION,1.0,0,2,Execution/Drift
+596,False,[],2026-06-29T17:47:55.024Z,ACTION,1.0,0,2,Execution/Drift
+597,False,[],2026-06-29T17:48:04.567Z,GROUNDED,1.0,3,2,Execution/Drift
+598,False,[],2026-06-29T17:48:34.824Z,ACTION,1.0,0,2,Execution/Drift
+599,False,[],2026-06-29T17:48:39.177Z,ACTION,1.0,0,2,Execution/Drift
+600,False,[],2026-06-29T17:49:55.500Z,CORRECTING,0.9,2,2,Execution/Drift
+601,False,[],2026-06-29T17:50:04.678Z,ASSERTED,0.9,1,2,Execution/Drift
+602,False,[],2026-06-29T17:50:46.047Z,ACTION,1.0,0,2,Execution/Drift
+603,False,[],2026-06-29T17:51:40.023Z,ACTION,1.0,0,2,Execution/Drift
+604,False,[],2026-06-29T17:53:34.605Z,ACTION,1.0,0,2,Execution/Drift
+605,False,[],2026-06-29T17:54:47.143Z,INFERRED,0.9,4,2,Execution/Drift
+606,False,[],2026-06-29T17:55:11.231Z,ACTION,0.9,0,2,Execution/Drift
+607,False,[],2026-06-29T17:55:45.156Z,ACTION,1.0,0,2,Execution/Drift
+608,False,[],2026-06-29T17:56:45.372Z,ACTION,1.0,0,2,Execution/Drift
+609,False,[],2026-06-29T17:57:02.895Z,ACTION,1.0,0,2,Execution/Drift
+610,False,[],2026-06-29T17:57:25.747Z,ACTION,1.0,0,2,Execution/Drift
+611,False,[],2026-06-29T17:58:04.241Z,ACTION,1.0,0,2,Execution/Drift
+612,False,[],2026-06-29T17:59:53.786Z,INFERRED,0.9,4,2,Execution/Drift
+613,False,[],2026-06-29T18:01:39.255Z,ACTION,1.0,0,2,Execution/Drift
+614,False,[],2026-06-29T18:01:43.073Z,ACTION,1.0,0,2,Execution/Drift
+615,False,[],2026-06-29T18:01:59.245Z,ACTION,0.9,0,2,Execution/Drift
+616,False,[],2026-06-29T18:02:10.585Z,INFERRED,0.9,4,2,Execution/Drift
+617,False,[],2026-06-29T18:05:48.384Z,ACTION,1.0,0,0,Active Reasoning
+618,False,[],2026-06-29T18:06:03.557Z,GROUNDED,1.0,3,1,Evidence-Grounded
+619,False,[],2026-06-29T18:06:43.937Z,INFERRED,0.9,4,0,Active Reasoning
+620,False,[],2026-06-29T18:07:46.489Z,GROUNDED,1.0,3,1,Evidence-Grounded
+621,False,[],2026-06-29T18:44:34.444Z,ACTION,1.0,0,0,Active Reasoning
+622,False,[],2026-06-29T18:44:57.742Z,GROUNDED,1.0,3,1,Evidence-Grounded
+623,False,[],2026-06-29T18:45:49.960Z,MIXED,0.9,5,0,Active Reasoning
+624,False,[],2026-06-29T18:46:04.651Z,INFERRED,0.9,4,1,Evidence-Grounded
+625,False,[],2026-06-29T18:46:27.811Z,GROUNDED,1.0,3,0,Active Reasoning
+626,False,[],2026-06-29T18:48:07.456Z,GROUNDED,1.0,3,1,Evidence-Grounded
+627,False,[],2026-06-29T19:08:34.097Z,ACTION,1.0,0,2,Execution/Drift
+628,False,[],2026-06-29T19:17:25.894Z,ASSERTED,0.9,1,0,Active Reasoning
+629,False,[],2026-06-29T19:17:33.156Z,INFERRED,0.9,4,1,Evidence-Grounded
+630,False,[],2026-06-29T19:18:04.857Z,INFERRED,0.9,4,0,Active Reasoning
+631,False,[],2026-06-29T19:19:05.545Z,GROUNDED,1.0,3,1,Evidence-Grounded
+632,False,[],2026-06-29T19:20:29.339Z,INFERRED,0.9,4,0,Active Reasoning
+633,False,[],2026-06-29T19:21:02.951Z,GROUNDED,1.0,3,1,Evidence-Grounded
+634,False,[],2026-06-29T19:21:31.883Z,MIXED,0.9,5,0,Active Reasoning
+635,False,[],2026-06-29T19:22:10.578Z,INFERRED,0.9,4,1,Evidence-Grounded
+636,False,[],2026-06-29T19:23:33.138Z,GROUNDED,1.0,3,0,Active Reasoning
+637,False,[],2026-06-29T19:25:33.396Z,GROUNDED,1.0,3,1,Evidence-Grounded
+638,False,[],2026-06-29T19:29:49.770Z,CORRECTING,0.9,2,2,Execution/Drift
+639,False,[],2026-06-29T19:30:40.707Z,CORRECTING,1.0,2,2,Execution/Drift
+640,False,[],2026-06-29T19:31:54.730Z,CORRECTING,1.0,2,2,Execution/Drift
+641,False,[],2026-06-29T19:35:30.732Z,INFERRED,0.8,4,2,Execution/Drift
+642,False,[],2026-06-29T19:37:53.064Z,ACTION,0.9,0,2,Execution/Drift
+643,False,[],2026-06-29T19:38:54.771Z,INFERRED,0.9,4,0,Active Reasoning
+644,False,[],2026-06-29T19:42:02.040Z,INFERRED,0.9,4,1,Evidence-Grounded
+645,False,[],2026-06-29T19:46:06.434Z,GROUNDED,1.0,3,0,Active Reasoning
+646,False,[],2026-06-29T19:46:56.453Z,GROUNDED,0.9,3,1,Evidence-Grounded
+647,False,[],2026-06-29T19:47:30.202Z,INFERRED,0.9,4,0,Active Reasoning
+648,False,[],2026-06-29T19:49:52.113Z,GROUNDED,0.95,3,1,Evidence-Grounded
+649,False,[],2026-06-29T19:52:45.889Z,GROUNDED,1.0,3,0,Active Reasoning
+650,False,[],2026-06-29T19:55:43.177Z,INFERRED,0.9,4,1,Evidence-Grounded
+651,False,[],2026-06-29T19:57:41.346Z,GROUNDED,1.0,3,0,Active Reasoning
+652,False,[],2026-06-29T20:00:43.002Z,CORRECTING,1.0,2,1,Evidence-Grounded
+653,False,[],2026-06-29T20:01:29.461Z,GROUNDED,0.9,3,0,Active Reasoning
+654,False,[],2026-06-29T20:03:21.725Z,CORRECTING,1.0,2,1,Evidence-Grounded
+655,False,[],2026-06-29T20:08:15.310Z,ACTION,1.0,0,2,Execution/Drift
+656,False,[],2026-06-29T20:09:08.687Z,MIXED,0.9,5,2,Execution/Drift
+657,False,[],2026-06-29T20:10:17.185Z,GROUNDED,1.0,3,0,Active Reasoning
+658,False,[],2026-06-29T20:12:30.806Z,GROUNDED,0.95,3,1,Evidence-Grounded
+659,False,[],2026-06-29T20:13:36.222Z,ACTION,1.0,0,0,Active Reasoning
+660,False,[],2026-06-29T20:13:51.272Z,GROUNDED,1.0,3,1,Evidence-Grounded
+661,False,[],2026-06-29T20:15:14.547Z,GROUNDED,1.0,3,0,Active Reasoning
+662,False,[],2026-06-29T20:16:27.604Z,GROUNDED,1.0,3,1,Evidence-Grounded
+663,False,[],2026-06-29T20:17:25.648Z,GROUNDED,1.0,3,0,Active Reasoning
+664,False,[],2026-06-29T20:18:13.296Z,ACTION,1.0,0,1,Evidence-Grounded
+665,False,[],2026-06-29T20:18:28.040Z,ASSERTED,0.9,1,0,Active Reasoning
+666,False,[],2026-06-29T20:18:35.446Z,GROUNDED,1.0,3,1,Evidence-Grounded
+667,False,[],2026-06-29T20:18:53.324Z,GROUNDED,1.0,3,0,Active Reasoning
+668,False,[],2026-06-29T20:20:39.981Z,CORRECTING,1.0,2,1,Evidence-Grounded
+669,False,[],2026-06-29T20:21:03.141Z,GROUNDED,1.0,3,0,Active Reasoning
+670,False,[],2026-06-29T20:22:33.999Z,CORRECTING,1.0,2,1,Evidence-Grounded
+671,False,[],2026-06-29T20:23:21.406Z,INFERRED,0.9,4,0,Active Reasoning
+672,False,[],2026-06-29T21:19:03.684Z,GROUNDED,1.0,3,1,Evidence-Grounded
+673,False,[],2026-06-29T21:20:06.718Z,ASSERTED,0.9,1,0,Active Reasoning
+674,False,[],2026-06-30T00:25:36.434Z,ACTION,1.0,0,1,Evidence-Grounded
+675,False,[],2026-06-30T00:26:27.552Z,INFERRED,0.9,4,0,Active Reasoning
+676,False,[],2026-06-30T00:26:58.866Z,GROUNDED,1.0,3,1,Evidence-Grounded
+677,False,[],2026-06-30T00:27:49.318Z,GROUNDED,1.0,3,0,Active Reasoning
+678,False,[],2026-06-30T00:41:31.012Z,ACTION,0.9,0,1,Evidence-Grounded
+679,False,[],2026-06-30T00:42:58.873Z,INFERRED,0.8,4,0,Active Reasoning
+680,False,[],2026-06-30T00:43:41.158Z,INFERRED,0.9,4,1,Evidence-Grounded
+681,False,[],2026-06-30T00:45:23.704Z,ACTION,1.0,0,0,Active Reasoning
+682,False,[],2026-06-30T00:45:50.717Z,GROUNDED,1.0,3,1,Evidence-Grounded
+683,False,[],2026-06-30T01:47:59.848Z,GROUNDED,1.0,3,0,Active Reasoning
+684,False,[],2026-06-30T01:49:25.933Z,GROUNDED,1.0,3,1,Evidence-Grounded
+685,False,[],2026-06-30T01:50:59.038Z,ACTION,0.9,0,0,Active Reasoning
+686,False,[],2026-06-30T01:52:40.129Z,GROUNDED,1.0,3,1,Evidence-Grounded
+687,False,[],2026-06-30T01:53:11.252Z,GROUNDED,1.0,3,0,Active Reasoning
+688,False,[],2026-06-30T01:54:23.834Z,GROUNDED,1.0,3,1,Evidence-Grounded
+689,False,[],2026-06-30T01:55:35.976Z,ACTION,1.0,0,0,Active Reasoning
+690,False,[],2026-06-30T01:57:30.953Z,INFERRED,0.9,4,1,Evidence-Grounded
+691,False,[],2026-06-30T01:58:04.322Z,GROUNDED,1.0,3,0,Active Reasoning
+692,False,[],2026-06-30T01:58:22.543Z,INFERRED,0.9,4,1,Evidence-Grounded
+693,False,[],2026-06-30T01:58:46.876Z,INFERRED,0.9,4,0,Active Reasoning
+694,False,[],2026-06-30T01:59:26.075Z,INFERRED,0.9,4,1,Evidence-Grounded
+695,False,[],2026-06-30T01:59:49.024Z,INFERRED,0.9,4,0,Active Reasoning
+696,False,[],2026-06-30T02:00:24.724Z,INFERRED,0.9,4,1,Evidence-Grounded
+697,False,[],2026-06-30T02:04:36.688Z,GROUNDED,1.0,3,0,Active Reasoning
+698,False,[],2026-06-30T02:05:47.012Z,GROUNDED,1.0,3,1,Evidence-Grounded
+699,False,[],2026-06-30T02:08:00.852Z,INFERRED,0.9,4,0,Active Reasoning
+700,False,[],2026-06-30T02:08:49.525Z,ACTION,1.0,0,1,Evidence-Grounded
+701,False,[],2026-06-30T02:09:13.482Z,INFERRED,0.9,4,0,Active Reasoning
+702,False,[],2026-06-30T02:11:32.455Z,GROUNDED,1.0,3,1,Evidence-Grounded
+703,False,[],2026-06-30T02:15:12.298Z,INFERRED,0.9,4,0,Active Reasoning
+704,False,[],2026-06-30T02:20:06.035Z,GROUNDED,0.9,3,1,Evidence-Grounded
+705,False,[],2026-06-30T02:27:42.624Z,ACTION,0.9,0,0,Active Reasoning
+706,False,[],2026-06-30T02:28:13.380Z,INFERRED,0.9,4,1,Evidence-Grounded
+707,False,[],2026-06-30T02:28:51.185Z,GROUNDED,1.0,3,0,Active Reasoning
+708,False,[],2026-06-30T02:30:14.870Z,GROUNDED,1.0,3,1,Evidence-Grounded
+709,False,[],2026-06-30T02:30:27.537Z,GROUNDED,0.9,3,0,Active Reasoning
+710,False,[],2026-06-30T02:31:44.149Z,GROUNDED,1.0,3,1,Evidence-Grounded
+711,False,[],2026-06-30T02:32:03.341Z,INFERRED,0.9,4,0,Active Reasoning
+712,False,[],2026-06-30T02:32:31.272Z,GROUNDED,1.0,3,1,Evidence-Grounded
+713,False,[],2026-06-30T02:33:16.105Z,INFERRED,0.9,4,0,Active Reasoning
+714,False,[],2026-06-30T02:37:45.671Z,CORRECTING,1.0,2,1,Evidence-Grounded
+715,False,[],2026-06-30T02:38:42.184Z,INFERRED,0.9,4,0,Active Reasoning
+716,False,[],2026-06-30T02:41:45.955Z,ACTION,0.9,0,1,Evidence-Grounded
+717,False,[],2026-06-30T02:43:17.031Z,MIXED,0.9,5,0,Active Reasoning
+718,False,[],2026-06-30T02:45:37.087Z,GROUNDED,0.9,3,1,Evidence-Grounded
+719,False,[],2026-06-30T02:45:51.015Z,ACTION,1.0,0,0,Active Reasoning
+720,False,[],2026-06-30T02:46:20.489Z,GROUNDED,1.0,3,1,Evidence-Grounded
+721,False,[],2026-06-30T02:46:54.464Z,GROUNDED,0.9,3,0,Active Reasoning
+722,False,[],2026-06-30T02:48:16.942Z,GROUNDED,1.0,3,1,Evidence-Grounded
+723,False,[],2026-06-30T02:48:44.685Z,INFERRED,0.9,4,0,Active Reasoning
+724,False,[],2026-06-30T02:49:15.173Z,INFERRED,0.8,4,1,Evidence-Grounded
+725,False,[],2026-06-30T02:49:32.950Z,ACTION,0.9,0,2,Execution/Drift
+726,False,[],2026-06-30T02:49:56.783Z,ACTION,1.0,0,2,Execution/Drift
+727,False,[],2026-06-30T02:50:29.223Z,ACTION,0.9,0,2,Execution/Drift
+728,False,[],2026-06-30T02:50:42.800Z,ACTION,0.9,0,2,Execution/Drift
+729,False,[],2026-06-30T02:51:14.235Z,ASSERTED,0.9,1,2,Execution/Drift
+730,False,[],2026-06-30T02:56:54.919Z,GROUNDED,1.0,3,2,Execution/Drift
+731,False,[],2026-06-30T02:57:32.972Z,ACTION,1.0,0,2,Execution/Drift
+732,False,[],2026-06-30T02:58:38.688Z,ASSERTED,0.9,1,2,Execution/Drift
+733,False,[],2026-06-30T02:58:49.155Z,ACTION,1.0,0,2,Execution/Drift
+734,False,[],2026-06-30T02:59:11.044Z,GROUNDED,1.0,3,2,Execution/Drift
+735,False,[],2026-06-30T02:59:50.698Z,GROUNDED,1.0,3,2,Execution/Drift
+736,False,[],2026-06-30T03:00:28.349Z,CORRECTING,0.9,2,2,Execution/Drift
+737,False,[],2026-06-30T03:00:54.761Z,MIXED,0.9,5,2,Execution/Drift
+738,False,[],2026-06-30T03:01:15.969Z,ACTION,1.0,0,2,Execution/Drift
+739,False,[],2026-06-30T03:15:42.703Z,ACTION,1.0,0,2,Execution/Drift
+740,False,[],2026-06-30T03:16:32.537Z,INFERRED,0.8,4,2,Execution/Drift
+741,False,[],2026-06-30T03:16:52.305Z,INFERRED,0.9,4,0,Active Reasoning
+742,False,[],2026-06-30T03:17:12.925Z,GROUNDED,0.9,3,1,Evidence-Grounded
+743,False,[],2026-06-30T03:18:09.408Z,GROUNDED,1.0,3,0,Active Reasoning
+744,False,[],2026-06-30T03:19:31.312Z,GROUNDED,0.95,3,1,Evidence-Grounded
+745,False,[],2026-06-30T03:25:37.216Z,INFERRED,0.9,4,0,Active Reasoning
+746,False,[],2026-06-30T03:27:30.784Z,INFERRED,0.9,4,1,Evidence-Grounded
+747,False,[],2026-06-30T03:28:21.340Z,INFERRED,0.9,4,0,Active Reasoning
+748,False,[],2026-06-30T03:29:34.173Z,GROUNDED,1.0,3,1,Evidence-Grounded
+749,False,[],2026-06-30T03:31:18.024Z,MIXED,0.9,5,0,Active Reasoning
+750,False,[],2026-06-30T03:32:06.855Z,GROUNDED,1.0,3,1,Evidence-Grounded
+751,False,[],2026-06-30T03:32:20.489Z,GROUNDED,1.0,3,0,Active Reasoning
+752,False,[],2026-06-30T03:36:07.494Z,GROUNDED,1.0,3,1,Evidence-Grounded
+753,False,[],2026-06-30T03:39:41.865Z,GROUNDED,1.0,3,0,Active Reasoning
+754,False,[],2026-06-30T03:40:30.047Z,GROUNDED,1.0,3,1,Evidence-Grounded
+755,False,[],2026-06-30T03:40:47.645Z,ACTION,0.9,0,2,Execution/Drift
+756,False,[],2026-06-30T03:41:03.329Z,ACTION,1.0,0,2,Execution/Drift
+757,False,[],2026-06-30T03:41:17.705Z,CORRECTING,1.0,2,2,Execution/Drift
+758,False,[],2026-06-30T03:41:37.655Z,INFERRED,0.9,4,2,Execution/Drift
+759,False,[],2026-06-30T03:43:30.069Z,ACTION,0.9,0,2,Execution/Drift
+760,False,[],2026-06-30T03:45:43.325Z,ACTION,1.0,0,2,Execution/Drift
+761,False,[],2026-06-30T03:46:18.310Z,CORRECTING,1.0,2,2,Execution/Drift
+762,False,[],2026-06-30T03:47:02.520Z,GROUNDED,1.0,3,0,Active Reasoning
+763,False,[],2026-06-30T03:48:19.756Z,GROUNDED,1.0,3,1,Evidence-Grounded
+764,False,[],2026-06-30T03:50:03.600Z,GROUNDED,1.0,3,0,Active Reasoning
+765,False,[],2026-06-30T03:50:48.716Z,CORRECTING,0.9,2,1,Evidence-Grounded
+766,False,[],2026-06-30T03:51:09.683Z,CORRECTING,1.0,2,2,Execution/Drift
+767,False,[],2026-06-30T03:51:55.795Z,ACTION,0.9,0,2,Execution/Drift
+768,False,[],2026-06-30T03:52:45.469Z,INFERRED,0.9,4,2,Execution/Drift
+769,False,[],2026-06-30T03:55:17.170Z,GROUNDED,1.0,3,0,Active Reasoning
+770,False,[],2026-06-30T03:56:36.083Z,INFERRED,0.9,4,1,Evidence-Grounded
+771,False,[],2026-06-30T03:58:21.955Z,INFERRED,0.8,4,0,Active Reasoning
+772,False,[],2026-06-30T04:01:31.798Z,GROUNDED,1.0,3,1,Evidence-Grounded
+773,False,[],2026-06-30T04:04:53.208Z,GROUNDED,1.0,3,0,Active Reasoning
+774,False,[],2026-06-30T04:05:27.106Z,INFERRED,0.9,4,1,Evidence-Grounded
+775,False,[],2026-06-30T04:05:43.705Z,ACTION,1.0,0,0,Active Reasoning
+776,False,[],2026-06-30T04:06:00.223Z,CORRECTING,1.0,2,1,Evidence-Grounded
+777,False,[],2026-06-30T04:06:28.257Z,ACTION,1.0,0,0,Active Reasoning
+778,False,[],2026-06-30T04:07:25.118Z,GROUNDED,1.0,3,1,Evidence-Grounded
+779,False,[],2026-06-30T04:08:02.090Z,GROUNDED,1.0,3,0,Active Reasoning
+780,False,[],2026-06-30T04:08:19.834Z,ACTION,1.0,0,1,Evidence-Grounded
+781,False,[],2026-06-30T04:10:14.662Z,INFERRED,0.9,4,0,Active Reasoning
+782,False,[],2026-06-30T04:11:11.116Z,GROUNDED,0.95,3,1,Evidence-Grounded
+783,False,[],2026-06-30T04:11:49.435Z,GROUNDED,0.95,3,0,Active Reasoning
+784,False,[],2026-06-30T11:26:37.469Z,GROUNDED,1.0,3,1,Evidence-Grounded
+785,False,[],2026-06-30T11:28:01.964Z,ACTION,1.0,0,0,Active Reasoning
+786,False,[],2026-06-30T11:28:19.921Z,GROUNDED,1.0,3,1,Evidence-Grounded
+787,False,[],2026-06-30T11:28:55.070Z,INFERRED,0.9,4,0,Active Reasoning
+788,False,[],2026-06-30T11:29:17.489Z,GROUNDED,1.0,3,1,Evidence-Grounded
+789,False,[],2026-06-30T11:29:50.132Z,MIXED,0.9,5,2,Execution/Drift
+790,False,[],2026-06-30T11:30:21.657Z,ASSERTED,0.9,1,2,Execution/Drift
+791,False,[],2026-06-30T11:35:11.622Z,ACTION,1.0,0,2,Execution/Drift
+792,False,[],2026-06-30T11:36:01.938Z,ACTION,0.9,0,2,Execution/Drift
+793,False,[],2026-06-30T11:36:44.012Z,INFERRED,0.9,4,2,Execution/Drift
+794,False,[],2026-06-30T11:40:57.200Z,GROUNDED,1.0,3,0,Active Reasoning
+795,False,[],2026-06-30T11:41:57.021Z,INFERRED,0.9,4,1,Evidence-Grounded
+796,False,[],2026-06-30T11:43:04.968Z,INFERRED,0.9,4,0,Active Reasoning
+797,False,[],2026-06-30T11:45:48.504Z,CORRECTING,1.0,2,1,Evidence-Grounded
+798,False,[],2026-06-30T11:46:05.840Z,MIXED,0.9,5,0,Active Reasoning
+799,False,[],2026-06-30T11:47:06.354Z,GROUNDED,1.0,3,1,Evidence-Grounded
+800,False,[],2026-06-30T11:49:56.682Z,INFERRED,0.9,4,0,Active Reasoning
+801,False,[],2026-06-30T11:51:28.471Z,GROUNDED,0.95,3,1,Evidence-Grounded
+802,False,[],2026-06-30T11:53:01.713Z,INFERRED,0.9,4,0,Active Reasoning
+803,False,[],2026-06-30T11:54:17.090Z,GROUNDED,0.95,3,1,Evidence-Grounded
+804,False,[],2026-06-30T11:55:25.236Z,INFERRED,0.95,4,0,Active Reasoning
+805,False,[],2026-06-30T11:56:23.751Z,INFERRED,0.9,4,1,Evidence-Grounded
+806,False,[],2026-06-30T11:57:06.658Z,ACTION,1.0,0,0,Active Reasoning
+807,False,[],2026-06-30T11:57:17.418Z,GROUNDED,1.0,3,1,Evidence-Grounded
+808,False,[],2026-06-30T11:57:37.290Z,GROUNDED,1.0,3,0,Active Reasoning
+809,False,[],2026-06-30T11:58:21.997Z,CORRECTING,0.9,2,1,Evidence-Grounded
+810,False,[],2026-06-30T11:58:45.559Z,ACTION,0.9,0,0,Active Reasoning
+811,False,[],2026-06-30T11:58:58.668Z,ACTION,0.9,0,1,Evidence-Grounded
+812,False,[],2026-06-30T11:59:21.604Z,INFERRED,0.9,4,0,Active Reasoning
+813,False,[],2026-06-30T12:00:06.152Z,ACTION,1.0,0,1,Evidence-Grounded
+814,False,[],2026-06-30T12:00:14.400Z,GROUNDED,1.0,3,0,Active Reasoning
+815,False,[],2026-06-30T12:01:15.163Z,INFERRED,0.9,4,1,Evidence-Grounded
+816,False,[],2026-06-30T12:01:33.791Z,GROUNDED,0.9,3,0,Active Reasoning
+817,False,[],2026-06-30T12:02:04.094Z,ACTION,0.9,0,1,Evidence-Grounded
+818,False,[],2026-06-30T12:02:54.619Z,INFERRED,0.9,4,0,Active Reasoning
+819,False,[],2026-06-30T12:04:13.879Z,GROUNDED,0.95,3,1,Evidence-Grounded
+820,False,[],2026-06-30T12:07:01.060Z,ACTION,1.0,0,2,Execution/Drift
+821,False,[],2026-06-30T12:07:12.340Z,INFERRED,0.8,4,2,Execution/Drift
+822,False,[],2026-06-30T12:07:59.265Z,CORRECTING,1.0,2,2,Execution/Drift
+823,False,[],2026-06-30T12:08:38.330Z,ACTION,1.0,0,2,Execution/Drift
+824,False,[],2026-06-30T12:09:35.263Z,MIXED,0.95,5,2,Execution/Drift
+825,False,[],2026-06-30T12:10:19.129Z,GROUNDED,1.0,3,0,Active Reasoning
+826,False,[],2026-06-30T12:11:37.607Z,GROUNDED,1.0,3,1,Evidence-Grounded
+827,False,[],2026-06-30T12:12:47.499Z,GROUNDED,1.0,3,0,Active Reasoning
+828,False,[],2026-06-30T13:05:25.825Z,ACTION,1.0,0,1,Evidence-Grounded
+829,False,[],2026-06-30T13:05:52.857Z,GROUNDED,1.0,3,0,Active Reasoning
+830,False,[],2026-06-30T13:07:46.119Z,GROUNDED,1.0,3,1,Evidence-Grounded
+831,False,[],2026-06-30T13:08:36.543Z,INFERRED,0.9,4,0,Active Reasoning
+832,False,[],2026-06-30T13:08:51.386Z,ACTION,1.0,0,1,Evidence-Grounded
+833,False,[],2026-06-30T13:09:43.514Z,INFERRED,0.9,4,0,Active Reasoning
+834,False,[],2026-06-30T13:10:26.095Z,GROUNDED,1.0,3,1,Evidence-Grounded
+835,False,[],2026-06-30T13:13:06.763Z,ACTION,1.0,0,0,Active Reasoning
+836,False,[],2026-06-30T13:13:16.340Z,GROUNDED,1.0,3,1,Evidence-Grounded
+837,False,[],2026-06-30T13:21:57.101Z,GROUNDED,1.0,3,0,Active Reasoning
+838,False,[],2026-06-30T13:25:41.748Z,GROUNDED,1.0,3,1,Evidence-Grounded
+839,False,[],2026-06-30T13:29:23.629Z,ACTION,1.0,0,0,Active Reasoning
+840,False,[],2026-06-30T13:29:40.309Z,GROUNDED,1.0,3,1,Evidence-Grounded
+841,False,[],2026-06-30T13:31:19.886Z,GROUNDED,1.0,3,0,Active Reasoning
+842,False,[],2026-06-30T13:31:30.272Z,GROUNDED,1.0,3,1,Evidence-Grounded
+843,False,[],2026-06-30T13:32:58.225Z,ACTION,1.0,0,2,Execution/Drift
+844,False,[],2026-06-30T13:33:21.678Z,MIXED,0.9,5,2,Execution/Drift
+845,False,[],2026-06-30T13:33:48.284Z,MIXED,0.9,5,0,Active Reasoning
+846,False,[],2026-06-30T13:41:06.898Z,INFERRED,0.9,4,1,Evidence-Grounded
+847,False,[],2026-06-30T13:42:11.679Z,GROUNDED,1.0,3,0,Active Reasoning
+848,False,[],2026-06-30T13:43:19.756Z,INFERRED,0.9,4,1,Evidence-Grounded
+849,False,[],2026-06-30T13:48:44.813Z,INFERRED,0.9,4,0,Active Reasoning
+850,False,[],2026-06-30T13:50:41.753Z,INFERRED,0.9,4,1,Evidence-Grounded
+851,False,[],2026-06-30T13:54:31.669Z,INFERRED,0.9,4,0,Active Reasoning
+852,False,[],2026-06-30T13:55:04.709Z,INFERRED,0.9,4,1,Evidence-Grounded
+853,False,[],2026-06-30T13:55:15.765Z,INFERRED,0.9,4,0,Active Reasoning
+854,False,[],2026-06-30T14:46:17.365Z,CORRECTING,1.0,2,1,Evidence-Grounded
+855,False,[],2026-06-30T14:49:44.341Z,ACTION,0.9,0,0,Active Reasoning
+856,False,[],2026-06-30T14:50:12.540Z,GROUNDED,1.0,3,1,Evidence-Grounded
+857,False,[],2026-06-30T14:53:17.223Z,MIXED,0.9,5,0,Active Reasoning
+858,False,[],2026-06-30T14:53:34.803Z,ACTION,1.0,0,1,Evidence-Grounded
+859,False,[],2026-06-30T14:54:04.820Z,GROUNDED,1.0,3,0,Active Reasoning
+860,False,[],2026-06-30T14:54:31.308Z,GROUNDED,0.9,3,1,Evidence-Grounded
+861,False,[],2026-06-30T14:56:00.746Z,ACTION,0.9,0,2,Execution/Drift
+862,False,[],2026-06-30T14:56:43.644Z,ACTION,0.9,0,2,Execution/Drift
+863,False,[],2026-06-30T14:57:31.779Z,ACTION,1.0,0,2,Execution/Drift
+864,False,[],2026-06-30T14:57:54.709Z,GROUNDED,1.0,3,0,Active Reasoning
+865,False,[],2026-06-30T14:58:50.293Z,GROUNDED,0.95,3,1,Evidence-Grounded
+866,False,[],2026-06-30T15:00:53.427Z,GROUNDED,1.0,3,0,Active Reasoning
+867,False,[],2026-06-30T15:01:02.543Z,INFERRED,0.9,4,1,Evidence-Grounded
+868,False,[],2026-06-30T15:04:04.295Z,ACTION,0.9,0,0,Active Reasoning
+869,False,[],2026-06-30T15:06:52.164Z,INFERRED,0.9,4,1,Evidence-Grounded
+870,False,[],2026-06-30T15:12:04.836Z,ACTION,1.0,0,0,Active Reasoning
+871,False,[],2026-06-30T15:12:11.124Z,ACTION,1.0,0,1,Evidence-Grounded
+872,False,[],2026-06-30T15:12:44.663Z,INFERRED,0.9,4,0,Active Reasoning
+873,False,[],2026-06-30T15:16:45.606Z,CORRECTING,1.0,2,1,Evidence-Grounded
+874,False,[],2026-06-30T15:18:44.755Z,INFERRED,0.9,4,0,Active Reasoning
+875,False,[],2026-06-30T15:21:17.589Z,ACTION,1.0,0,1,Evidence-Grounded
+876,False,[],2026-06-30T15:23:46.148Z,ACTION,0.9,0,0,Active Reasoning
+877,False,[],2026-06-30T15:24:15.714Z,GROUNDED,1.0,3,1,Evidence-Grounded
+878,False,[],2026-06-30T15:24:53.649Z,GROUNDED,1.0,3,0,Active Reasoning
+879,False,[],2026-06-30T15:25:27.844Z,GROUNDED,1.0,3,1,Evidence-Grounded
+880,False,[],2026-06-30T15:26:47.735Z,MIXED,0.9,5,2,Execution/Drift
+881,False,[],2026-06-30T15:29:46.631Z,ACTION,0.9,0,2,Execution/Drift
+882,False,[],2026-06-30T15:30:06.907Z,MIXED,0.9,5,2,Execution/Drift
+883,False,[],2026-06-30T15:30:58.424Z,ACTION,1.0,0,2,Execution/Drift
+884,False,[],2026-06-30T15:31:22.478Z,ACTION,1.0,0,2,Execution/Drift
+885,False,[],2026-06-30T15:31:34.963Z,ACTION,1.0,0,2,Execution/Drift
+886,False,[],2026-06-30T15:32:02.006Z,MIXED,0.9,5,2,Execution/Drift
+887,False,[],2026-06-30T15:32:36.446Z,INFERRED,0.9,4,2,Execution/Drift
+888,False,[],2026-06-30T15:33:52.404Z,GROUNDED,0.9,3,2,Execution/Drift
+889,False,[],2026-06-30T15:35:24.799Z,INFERRED,0.9,4,2,Execution/Drift
+890,False,[],2026-06-30T15:38:06.772Z,ACTION,1.0,0,2,Execution/Drift
+891,False,[],2026-06-30T15:38:57.649Z,ACTION,1.0,0,2,Execution/Drift
+892,False,[],2026-06-30T15:40:12.882Z,ACTION,1.0,0,2,Execution/Drift
+893,False,[],2026-06-30T15:40:16.867Z,ACTION,1.0,0,2,Execution/Drift
+894,False,[],2026-06-30T15:40:50.124Z,ACTION,1.0,0,2,Execution/Drift
+895,False,[],2026-06-30T15:40:54.467Z,ACTION,1.0,0,0,Active Reasoning
+896,False,[],2026-06-30T15:41:21.989Z,GROUNDED,0.9,3,1,Evidence-Grounded
+897,False,[],2026-06-30T15:55:24.797Z,ACTION,0.9,0,0,Active Reasoning
+898,False,[],2026-06-30T15:55:38.080Z,GROUNDED,1.0,3,1,Evidence-Grounded
+899,False,[],2026-06-30T15:56:24.518Z,INFERRED,0.9,4,0,Active Reasoning
+900,False,[],2026-06-30T15:56:38.479Z,GROUNDED,1.0,3,1,Evidence-Grounded
+901,False,[],2026-06-30T15:57:32.858Z,ACTION,1.0,0,0,Active Reasoning
+902,False,[],2026-06-30T15:58:05.438Z,INFERRED,0.9,4,1,Evidence-Grounded
+903,False,[],2026-06-30T16:00:02.494Z,ASSERTED,0.9,1,0,Active Reasoning
+904,False,[],2026-06-30T16:00:55.631Z,GROUNDED,0.9,3,1,Evidence-Grounded
+905,False,[],2026-06-30T16:02:08.594Z,CORRECTING,1.0,2,2,Execution/Drift
+906,False,[],2026-06-30T16:03:08.773Z,ACTION,0.9,0,2,Execution/Drift
+907,False,[],2026-06-30T16:03:27.992Z,GROUNDED,0.9,3,2,Execution/Drift
+908,False,[],2026-06-30T16:05:53.631Z,ACTION,0.9,0,2,Execution/Drift
+909,False,[],2026-06-30T16:06:38.031Z,ACTION,1.0,0,2,Execution/Drift
+910,False,[],2026-06-30T16:06:59.084Z,INFERRED,0.9,4,0,Active Reasoning
+911,False,[],2026-06-30T16:07:43.934Z,INFERRED,0.9,4,1,Evidence-Grounded
+912,False,[],2026-06-30T16:16:57.930Z,INFERRED,0.9,4,0,Active Reasoning
+913,False,[],2026-06-30T16:26:39.378Z,GROUNDED,1.0,3,1,Evidence-Grounded
+914,False,[],2026-06-30T16:26:57.191Z,INFERRED,0.9,4,0,Active Reasoning
+915,False,[],2026-06-30T16:28:06.866Z,INFERRED,0.9,4,1,Evidence-Grounded
+916,False,[],2026-06-30T16:29:06.666Z,GROUNDED,0.9,3,0,Active Reasoning
+917,False,[],2026-06-30T16:30:05.339Z,GROUNDED,1.0,3,1,Evidence-Grounded
+918,False,[],2026-06-30T16:31:00.145Z,INFERRED,0.9,4,0,Active Reasoning
+919,False,[],2026-06-30T16:32:55.151Z,ACTION,1.0,0,1,Evidence-Grounded
+920,False,[],2026-06-30T16:34:53.692Z,ACTION,1.0,0,0,Active Reasoning
+921,False,[],2026-06-30T16:35:17.811Z,INFERRED,0.9,4,1,Evidence-Grounded
+922,False,[],2026-06-30T16:35:38.893Z,GROUNDED,0.9,3,0,Active Reasoning
+923,False,[],2026-06-30T16:36:35.369Z,ACTION,1.0,0,1,Evidence-Grounded
+924,False,[],2026-06-30T16:38:27.616Z,INFERRED,0.9,4,0,Active Reasoning
+925,False,[],2026-06-30T16:40:03.070Z,ACTION,1.0,0,1,Evidence-Grounded
+926,False,[],2026-06-30T16:40:37.776Z,MIXED,0.9,5,0,Active Reasoning
+927,False,[],2026-06-30T16:41:32.344Z,ACTION,1.0,0,1,Evidence-Grounded
+928,False,[],2026-06-30T16:41:56.035Z,GROUNDED,1.0,3,0,Active Reasoning
+929,False,[],2026-06-30T16:42:19.194Z,GROUNDED,1.0,3,1,Evidence-Grounded
+930,False,[],2026-06-30T16:43:27.460Z,CORRECTING,1.0,2,2,Execution/Drift
+931,False,[],2026-06-30T16:44:26.613Z,GROUNDED,1.0,3,2,Execution/Drift
+932,False,[],2026-06-30T16:47:20.511Z,INFERRED,0.9,4,2,Execution/Drift
+933,False,[],2026-06-30T16:48:11.210Z,ACTION,1.0,0,2,Execution/Drift
+934,False,[],2026-06-30T16:48:29.092Z,ACTION,0.9,0,0,Active Reasoning
+935,False,[],2026-06-30T16:48:59.387Z,GROUNDED,1.0,3,1,Evidence-Grounded
+936,False,[],2026-06-30T16:49:52.044Z,GROUNDED,1.0,3,0,Active Reasoning
+937,False,[],2026-06-30T16:50:34.814Z,INFERRED,0.9,4,1,Evidence-Grounded
+938,False,[],2026-06-30T16:54:30.591Z,GROUNDED,1.0,3,0,Active Reasoning
+939,False,[],2026-06-30T17:01:32.865Z,GROUNDED,1.0,3,1,Evidence-Grounded
+940,False,[],2026-06-30T17:03:48.158Z,GROUNDED,0.9,3,0,Active Reasoning
+941,False,[],2026-06-30T17:05:29.206Z,CORRECTING,1.0,2,1,Evidence-Grounded
+942,False,[],2026-06-30T17:05:55.889Z,MIXED,0.9,5,0,Active Reasoning
+943,False,[],2026-06-30T17:06:49.198Z,GROUNDED,1.0,3,1,Evidence-Grounded
+944,False,[],2026-06-30T17:07:23.597Z,GROUNDED,1.0,3,0,Active Reasoning
+945,False,[],2026-06-30T17:09:05.805Z,GROUNDED,1.0,3,1,Evidence-Grounded
+946,False,[],2026-06-30T17:10:07.264Z,INFERRED,0.9,4,0,Active Reasoning
+947,False,[],2026-06-30T17:11:10.084Z,GROUNDED,1.0,3,1,Evidence-Grounded
+948,False,[],2026-06-30T17:14:00.643Z,INFERRED,0.9,4,0,Active Reasoning
+949,False,[],2026-06-30T17:15:08.626Z,INFERRED,0.9,4,1,Evidence-Grounded
+950,False,[],2026-06-30T18:05:19.382Z,ACTION,1.0,0,0,Active Reasoning
+951,False,[],2026-06-30T18:05:31.884Z,GROUNDED,1.0,3,1,Evidence-Grounded
+952,False,[],2026-06-30T18:14:17.834Z,GROUNDED,1.0,3,0,Active Reasoning
+953,False,[],2026-06-30T18:15:47.525Z,GROUNDED,0.95,3,1,Evidence-Grounded
+954,False,[],2026-06-30T18:18:54.225Z,CORRECTING,1.0,2,2,Execution/Drift
+955,False,[],2026-06-30T18:20:07.384Z,CORRECTING,1.0,2,2,Execution/Drift
+956,False,[],2026-06-30T18:21:50.803Z,INFERRED,0.9,4,0,Active Reasoning
+957,False,[],2026-06-30T18:22:23.990Z,GROUNDED,1.0,3,1,Evidence-Grounded
+958,False,[],2026-06-30T18:23:00.878Z,GROUNDED,1.0,3,0,Active Reasoning
+959,False,[],2026-06-30T18:23:30.478Z,GROUNDED,0.95,3,1,Evidence-Grounded
+960,False,[],2026-06-30T18:24:01.515Z,GROUNDED,0.9,3,0,Active Reasoning
+961,False,[],2026-06-30T18:24:25.828Z,GROUNDED,1.0,3,1,Evidence-Grounded
+962,False,[],2026-06-30T18:25:11.317Z,INFERRED,0.8,4,0,Active Reasoning
+963,False,[],2026-06-30T18:25:42.219Z,GROUNDED,1.0,3,1,Evidence-Grounded
+964,False,[],2026-06-30T18:27:13.749Z,GROUNDED,1.0,3,0,Active Reasoning
+965,False,[],2026-06-30T18:28:23.724Z,GROUNDED,1.0,3,1,Evidence-Grounded
+966,False,[],2026-06-30T18:28:52.705Z,GROUNDED,1.0,3,0,Active Reasoning
+967,False,[],2026-06-30T18:29:24.971Z,GROUNDED,0.95,3,1,Evidence-Grounded
+968,False,[],2026-06-30T18:30:00.074Z,GROUNDED,1.0,3,0,Active Reasoning
+969,False,[],2026-06-30T20:44:04.937Z,GROUNDED,1.0,3,1,Evidence-Grounded
+970,False,[],2026-06-30T22:01:40.666Z,GROUNDED,1.0,3,0,Active Reasoning
+971,False,[],2026-06-30T22:02:31.527Z,INFERRED,0.9,4,1,Evidence-Grounded
+972,False,[],2026-06-30T22:04:39.717Z,INFERRED,0.9,4,0,Active Reasoning
+973,False,[],2026-06-30T22:05:51.424Z,ACTION,0.9,0,1,Evidence-Grounded
+974,False,[],2026-06-30T22:06:09.212Z,GROUNDED,1.0,3,0,Active Reasoning
+975,False,[],2026-06-30T22:08:54.145Z,GROUNDED,0.95,3,1,Evidence-Grounded
+976,False,[],2026-07-01T00:22:00.015Z,GROUNDED,1.0,3,0,Active Reasoning
+977,False,[],2026-07-01T00:43:40.618Z,ACTION,1.0,0,1,Evidence-Grounded
+978,False,[],2026-07-01T00:44:24.138Z,INFERRED,0.9,4,0,Active Reasoning
+979,False,[],2026-07-01T00:45:30.412Z,GROUNDED,0.95,3,1,Evidence-Grounded
+980,False,[],2026-07-01T00:46:30.811Z,MIXED,0.9,5,0,Active Reasoning
+981,False,[],2026-07-01T00:47:30.004Z,GROUNDED,1.0,3,1,Evidence-Grounded
+982,False,[],2026-07-01T00:56:29.209Z,INFERRED,0.9,4,0,Active Reasoning
+983,False,[],2026-07-01T00:56:51.026Z,GROUNDED,1.0,3,1,Evidence-Grounded
+984,False,[],2026-07-01T00:57:15.125Z,GROUNDED,1.0,3,0,Active Reasoning
+985,False,[],2026-07-01T00:58:36.514Z,INFERRED,0.9,4,1,Evidence-Grounded
+986,False,[],2026-07-01T01:01:28.352Z,INFERRED,0.9,4,0,Active Reasoning
+987,False,[],2026-07-01T01:03:26.135Z,GROUNDED,1.0,3,1,Evidence-Grounded
+988,False,[],2026-07-01T01:03:57.031Z,GROUNDED,1.0,3,0,Active Reasoning
+989,False,[],2026-07-01T01:04:18.432Z,GROUNDED,1.0,3,1,Evidence-Grounded
+990,False,[],2026-07-01T01:04:38.609Z,INFERRED,0.9,4,0,Active Reasoning
+991,False,[],2026-07-01T01:13:14.402Z,GROUNDED,1.0,3,1,Evidence-Grounded
+992,False,[],2026-07-01T01:13:57.233Z,MIXED,0.9,5,0,Active Reasoning
+993,False,[],2026-07-01T04:10:01.987Z,ACTION,0.9,0,1,Evidence-Grounded
+994,False,[],2026-07-01T04:10:45.395Z,GROUNDED,0.9,3,0,Active Reasoning
+995,False,[],2026-07-01T13:09:25.023Z,GROUNDED,1.0,3,1,Evidence-Grounded
+996,False,[],2026-07-01T13:10:09.862Z,MIXED,0.9,5,0,Active Reasoning
+997,False,[],2026-07-01T13:10:47.634Z,INFERRED,0.9,4,1,Evidence-Grounded
+998,False,[],2026-07-01T13:11:59.730Z,GROUNDED,1.0,3,0,Active Reasoning
+999,False,[],2026-07-01T13:15:09.809Z,ACTION,1.0,0,1,Evidence-Grounded
+1000,False,[],2026-07-01T13:16:49.902Z,INFERRED,0.9,4,0,Active Reasoning
+1001,False,[],2026-07-01T13:17:39.968Z,INFERRED,0.9,4,1,Evidence-Grounded
+1002,False,[],2026-07-01T13:21:11.635Z,ACTION,1.0,0,2,Execution/Drift
+1003,False,[],2026-07-01T13:21:53.559Z,GROUNDED,1.0,3,0,Active Reasoning
+1004,False,[],2026-07-01T21:16:37.649Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1005,False,[],2026-07-01T21:17:09.176Z,ACTION,1.0,0,0,Active Reasoning
+1006,False,[],2026-07-01T21:17:49.817Z,INFERRED,0.9,4,1,Evidence-Grounded
+1007,False,[],2026-07-01T21:18:05.071Z,ASSERTED,0.9,1,0,Active Reasoning
+1008,False,[],2026-07-01T21:18:49.563Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1009,False,[],2026-07-01T21:20:17.770Z,INFERRED,0.9,4,0,Active Reasoning
+1010,False,[],2026-07-01T21:23:14.078Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1011,False,[],2026-07-01T21:25:12.338Z,GROUNDED,1.0,3,0,Active Reasoning
+1012,False,[],2026-07-01T21:28:43.328Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1013,False,[],2026-07-01T22:56:48.750Z,GROUNDED,1.0,3,0,Active Reasoning
+1014,False,[],2026-07-02T09:56:31.940Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1015,False,[],2026-07-02T09:57:29.535Z,GROUNDED,1.0,3,0,Active Reasoning
+1016,False,[],2026-07-02T09:57:56.736Z,INFERRED,0.9,4,1,Evidence-Grounded
+1017,False,[],2026-07-02T09:59:49.856Z,ACTION,1.0,0,0,Active Reasoning
+1018,False,[],2026-07-02T10:00:23.366Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1019,False,[],2026-07-02T10:01:03.274Z,GROUNDED,1.0,3,0,Active Reasoning
+1020,False,[],2026-07-02T10:02:15.480Z,ACTION,0.9,0,1,Evidence-Grounded
+1021,False,[],2026-07-02T10:04:49.046Z,GROUNDED,0.9,3,0,Active Reasoning
+1022,False,[],2026-07-02T10:05:00.294Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1023,False,[],2026-07-02T10:07:59.401Z,GROUNDED,1.0,3,0,Active Reasoning
+1024,False,[],2026-07-02T10:09:44.765Z,INFERRED,0.9,4,1,Evidence-Grounded
+1025,False,[],2026-07-02T10:10:24.749Z,GROUNDED,1.0,3,0,Active Reasoning
+1026,False,[],2026-07-02T10:11:00.918Z,INFERRED,0.9,4,1,Evidence-Grounded
+1027,False,[],2026-07-02T10:12:08.391Z,INFERRED,0.9,4,0,Active Reasoning
+1028,False,[],2026-07-02T10:13:13.602Z,ACTION,0.9,0,1,Evidence-Grounded
+1029,False,[],2026-07-02T10:14:08.958Z,GROUNDED,1.0,3,0,Active Reasoning
+1030,False,[],2026-07-02T10:16:21.193Z,ACTION,1.0,0,1,Evidence-Grounded
+1031,False,[],2026-07-02T10:16:41.946Z,MIXED,0.9,5,0,Active Reasoning
+1032,False,[],2026-07-02T10:17:56.546Z,INFERRED,0.9,4,1,Evidence-Grounded
+1033,False,[],2026-07-02T10:23:02.242Z,INFERRED,0.9,4,0,Active Reasoning
+1034,False,[],2026-07-02T10:23:34.057Z,ACTION,1.0,0,1,Evidence-Grounded
+1035,False,[],2026-07-02T10:24:49.077Z,GROUNDED,1.0,3,0,Active Reasoning
+1036,False,[],2026-07-02T10:25:56.116Z,CORRECTING,0.9,2,1,Evidence-Grounded
+1037,False,[],2026-07-02T10:36:42.736Z,INFERRED,0.9,4,0,Active Reasoning
+1038,False,[],2026-07-02T10:39:39.120Z,INFERRED,0.9,4,1,Evidence-Grounded
+1039,False,[],2026-07-02T10:41:11.088Z,INFERRED,0.9,4,0,Active Reasoning
+1040,False,[],2026-07-02T10:42:48.360Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1041,False,[],2026-07-02T10:43:38.121Z,GROUNDED,1.0,3,0,Active Reasoning
+1042,False,[],2026-07-02T10:44:55.624Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1043,False,[],2026-07-02T10:46:49.879Z,INFERRED,0.9,4,0,Active Reasoning
+1044,False,[],2026-07-02T10:51:28.186Z,ACTION,1.0,0,1,Evidence-Grounded
+1045,False,[],2026-07-02T10:51:37.546Z,ASSERTED,0.9,1,0,Active Reasoning
+1046,False,[],2026-07-02T10:52:30.106Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1047,False,[],2026-07-02T10:54:06.366Z,INFERRED,0.9,4,0,Active Reasoning
+1048,False,[],2026-07-02T10:54:59.454Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1049,False,[],2026-07-02T10:56:23.453Z,GROUNDED,1.0,3,0,Active Reasoning
+1050,False,[],2026-07-02T10:58:23.508Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1051,False,[],2026-07-02T10:58:48.087Z,GROUNDED,1.0,3,0,Active Reasoning
+1052,False,[],2026-07-02T15:03:53.398Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1053,False,[],2026-07-02T15:05:51.821Z,GROUNDED,1.0,3,0,Active Reasoning
+1054,False,[],2026-07-02T23:16:15.875Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1055,False,[],2026-07-02T23:16:49.910Z,GROUNDED,1.0,3,0,Active Reasoning
+1056,False,[],2026-07-02T23:19:06.005Z,INFERRED,0.9,4,1,Evidence-Grounded
+1057,False,[],2026-07-02T23:19:56.774Z,ACTION,1.0,0,2,Execution/Drift
+1058,False,[],2026-07-02T23:20:37.037Z,ACTION,0.9,0,2,Execution/Drift
+1059,False,[],2026-07-02T23:23:26.140Z,ASSERTED,0.9,1,2,Execution/Drift
+1060,False,[],2026-07-02T23:24:02.909Z,ACTION,1.0,0,2,Execution/Drift
+1061,False,[],2026-07-02T23:25:28.629Z,CORRECTING,1.0,2,2,Execution/Drift
+1062,False,[],2026-07-02T23:26:12.875Z,GROUNDED,0.95,3,0,Active Reasoning
+1063,False,[],2026-07-02T23:29:29.376Z,INFERRED,0.9,4,1,Evidence-Grounded
+1064,False,[],2026-07-02T23:32:11.029Z,ACTION,1.0,0,0,Active Reasoning
+1065,False,[],2026-07-02T23:35:11.960Z,INFERRED,0.9,4,1,Evidence-Grounded
+1066,False,[],2026-07-02T23:37:00.393Z,GROUNDED,0.95,3,0,Active Reasoning
+1067,False,[],2026-07-02T23:37:58.855Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1068,False,[],2026-07-02T23:39:33.714Z,ASSERTED,0.9,1,0,Active Reasoning
+1069,False,[],2026-07-02T23:40:21.548Z,INFERRED,0.9,4,1,Evidence-Grounded
+1070,False,[],2026-07-03T01:01:18.885Z,GROUNDED,1.0,3,0,Active Reasoning
+1071,False,[],2026-07-03T18:22:23.753Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1072,False,[],2026-07-03T18:23:37.999Z,GROUNDED,1.0,3,0,Active Reasoning
+1073,False,[],2026-07-03T18:24:22.005Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1074,False,[],2026-07-04T09:52:01.252Z,GROUNDED,1.0,3,0,Active Reasoning
+1075,False,[],2026-07-04T09:56:29.748Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1076,False,[],2026-07-04T09:56:45.575Z,GROUNDED,1.0,3,0,Active Reasoning
+1077,False,[],2026-07-04T09:57:46.179Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1078,False,[],2026-07-04T09:58:12.332Z,GROUNDED,1.0,3,0,Active Reasoning
+1079,False,[],2026-07-04T10:41:27.479Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1080,False,[],2026-07-04T10:42:58.646Z,GROUNDED,0.9,3,0,Active Reasoning
+1081,False,[],2026-07-04T10:44:24.325Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1082,False,[],2026-07-04T10:45:14.041Z,ACTION,1.0,0,2,Execution/Drift
+1083,False,[],2026-07-04T10:45:30.439Z,ASSERTED,0.9,1,2,Execution/Drift
+1084,False,[],2026-07-04T19:06:00.755Z,GROUNDED,1.0,3,0,Active Reasoning
+1085,False,[],2026-07-06T20:30:34.312Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1086,False,[],2026-07-06T20:31:14.022Z,GROUNDED,1.0,3,0,Active Reasoning
+1087,False,[],2026-07-06T20:33:01.931Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1088,False,[],2026-07-06T20:36:08.531Z,INFERRED,0.9,4,0,Active Reasoning
+1089,False,[],2026-07-06T20:36:37.736Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1090,False,[],2026-07-06T20:41:07.418Z,GROUNDED,1.0,3,0,Active Reasoning
+1091,False,[],2026-07-06T20:51:30.425Z,INFERRED,0.9,4,1,Evidence-Grounded
+1092,False,[],2026-07-06T20:54:57.035Z,INFERRED,0.9,4,0,Active Reasoning
+1093,False,[],2026-07-06T21:06:51.148Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1094,False,[],2026-07-06T21:08:11.253Z,INFERRED,0.9,4,0,Active Reasoning
+1095,False,[],2026-07-06T21:08:40.922Z,INFERRED,0.9,4,1,Evidence-Grounded
+1096,False,[],2026-07-06T21:09:39.810Z,INFERRED,0.9,4,0,Active Reasoning
+1097,False,[],2026-07-06T21:09:57.871Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1098,False,[],2026-07-06T21:10:00.879Z,GROUNDED,0.9,3,0,Active Reasoning
+1099,False,[],2026-07-06T21:11:26.377Z,INFERRED,0.9,4,1,Evidence-Grounded
+1100,False,[],2026-07-06T21:14:57.011Z,ACTION,1.0,0,0,Active Reasoning
+1101,False,[],2026-07-06T21:15:33.190Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1102,False,[],2026-07-06T21:16:18.550Z,GROUNDED,0.9,3,0,Active Reasoning
+1103,False,[],2026-07-06T21:17:02.829Z,INFERRED,0.9,4,1,Evidence-Grounded
+1104,False,[],2026-07-06T21:32:28.250Z,INFERRED,0.9,4,0,Active Reasoning
+1105,False,[],2026-07-06T21:32:30.540Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1106,False,[],2026-07-07T09:29:48.004Z,GROUNDED,1.0,3,0,Active Reasoning
+1107,False,[],2026-07-07T12:44:12.651Z,ACTION,1.0,0,1,Evidence-Grounded
+1108,False,[],2026-07-07T13:08:46.048Z,ACTION,1.0,0,0,Active Reasoning
+1109,False,[],2026-07-07T13:10:29.238Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1110,False,[],2026-07-07T13:16:53.193Z,INFERRED,0.9,4,0,Active Reasoning
+1111,False,[],2026-07-07T13:17:54.840Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1112,False,[],2026-07-07T13:20:58.282Z,INFERRED,0.9,4,0,Active Reasoning
+1113,False,[],2026-07-07T13:22:20.684Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1114,False,[],2026-07-07T13:24:29.350Z,MIXED,0.9,5,0,Active Reasoning
+1115,False,[],2026-07-07T13:25:20.352Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1116,False,[],2026-07-07T13:26:57.173Z,ACTION,1.0,0,0,Active Reasoning
+1117,False,[],2026-07-07T13:27:39.901Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1118,False,[],2026-07-07T13:36:07.768Z,GROUNDED,1.0,3,0,Active Reasoning
+1119,False,[],2026-07-07T13:37:26.231Z,INFERRED,0.9,4,1,Evidence-Grounded
+1120,False,[],2026-07-07T13:41:00.967Z,ACTION,0.9,0,0,Active Reasoning
+1121,False,[],2026-07-07T13:42:30.491Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1122,False,[],2026-07-07T13:43:57.162Z,ACTION,0.9,0,0,Active Reasoning
+1123,False,[],2026-07-07T13:44:45.419Z,INFERRED,0.9,4,1,Evidence-Grounded
+1124,False,[],2026-07-07T13:49:07.544Z,INFERRED,0.9,4,0,Active Reasoning
+1125,False,[],2026-07-07T13:49:34.554Z,ACTION,1.0,0,1,Evidence-Grounded
+1126,False,[],2026-07-07T13:50:09.601Z,GROUNDED,1.0,3,0,Active Reasoning
+1127,False,[],2026-07-07T13:51:17.045Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1128,False,[],2026-07-07T13:52:13.900Z,GROUNDED,1.0,3,0,Active Reasoning
+1129,False,[],2026-07-07T13:53:38.005Z,INFERRED,0.9,4,1,Evidence-Grounded
+1130,False,[],2026-07-07T13:54:09.795Z,INFERRED,0.8,4,0,Active Reasoning
+1131,False,[],2026-07-07T13:54:32.770Z,INFERRED,0.8,4,1,Evidence-Grounded
+1132,False,[],2026-07-07T13:56:51.980Z,INFERRED,0.9,4,0,Active Reasoning
+1133,False,[],2026-07-07T13:58:24.515Z,INFERRED,0.9,4,1,Evidence-Grounded
+1134,False,[],2026-07-07T13:59:26.086Z,ACTION,0.9,0,2,Execution/Drift
+1135,False,[],2026-07-07T14:01:55.199Z,CORRECTING,0.95,2,2,Execution/Drift
+1136,False,[],2026-07-07T21:08:16.486Z,ASSERTED,1.0,1,2,Execution/Drift
+1137,False,[],2026-07-07T21:08:51.668Z,ACTION,1.0,0,2,Execution/Drift
+1138,False,[],2026-07-07T21:09:25.084Z,ACTION,1.0,0,2,Execution/Drift
+1139,False,[],2026-07-07T21:09:29.631Z,ACTION,1.0,0,2,Execution/Drift
+1140,False,[],2026-07-07T21:10:12.566Z,ACTION,1.0,0,0,Active Reasoning
+1141,False,[],2026-07-07T21:11:12.614Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1142,False,[],2026-07-07T21:15:04.325Z,ASSERTED,0.9,1,0,Active Reasoning
+1143,False,[],2026-07-07T21:16:31.035Z,INFERRED,0.9,4,1,Evidence-Grounded
+1144,False,[],2026-07-07T21:16:51.028Z,ACTION,0.9,0,0,Active Reasoning
+1145,False,[],2026-07-07T21:36:31.030Z,INFERRED,0.9,4,1,Evidence-Grounded
+1146,False,[],2026-07-07T21:47:17.205Z,ACTION,1.0,0,0,Active Reasoning
+1147,False,[],2026-07-12T19:23:21.986Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1148,False,[],2026-07-12T19:24:36.382Z,GROUNDED,1.0,3,0,Active Reasoning
+1149,False,[],2026-07-12T19:52:36.463Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1150,False,[],2026-07-12T19:53:36.589Z,GROUNDED,1.0,3,0,Active Reasoning
+1151,False,[],2026-07-12T19:55:03.448Z,INFERRED,0.9,4,1,Evidence-Grounded
+1152,False,[],2026-07-12T20:05:07.339Z,ACTION,0.9,0,0,Active Reasoning
+1153,False,[],2026-07-12T20:05:55.265Z,ACTION,0.9,0,1,Evidence-Grounded
+1154,False,[],2026-07-12T20:09:02.282Z,GROUNDED,1.0,3,0,Active Reasoning
+1155,False,[],2026-07-12T20:10:58.437Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1156,False,[],2026-07-12T20:13:55.158Z,GROUNDED,0.9,3,0,Active Reasoning
+1157,False,[],2026-07-12T20:16:35.722Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1158,False,[],2026-07-12T20:21:00.148Z,INFERRED,0.9,4,0,Active Reasoning
+1159,False,[],2026-07-12T20:21:44.806Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1160,False,[],2026-07-12T20:27:10.676Z,INFERRED,0.9,4,0,Active Reasoning
+1161,False,[],2026-07-12T20:27:33.928Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1162,False,[],2026-07-12T20:31:14.182Z,CORRECTING,1.0,2,2,Execution/Drift
+1163,False,[],2026-07-12T20:33:38.256Z,INFERRED,0.9,4,2,Execution/Drift
+1164,False,[],2026-07-12T20:35:59.324Z,CORRECTING,1.0,2,2,Execution/Drift
+1165,False,[],2026-07-12T20:36:55.917Z,ACTION,0.9,0,2,Execution/Drift
+1166,False,[],2026-07-12T20:37:06.103Z,ACTION,1.0,0,2,Execution/Drift
+1167,False,[],2026-07-12T20:37:46.792Z,ACTION,1.0,0,2,Execution/Drift
+1168,False,[],2026-07-12T20:38:20.437Z,ACTION,1.0,0,2,Execution/Drift
+1169,False,[],2026-07-12T20:38:52.458Z,GROUNDED,1.0,3,0,Active Reasoning
+1170,False,[],2026-07-12T20:42:13.762Z,INFERRED,0.9,4,1,Evidence-Grounded
+1171,False,[],2026-07-12T20:42:35.950Z,GROUNDED,0.9,3,0,Active Reasoning
+1172,False,[],2026-07-12T20:45:07.288Z,INFERRED,0.9,4,1,Evidence-Grounded
+1173,False,[],2026-07-12T20:48:04.645Z,GROUNDED,1.0,3,0,Active Reasoning
+1174,False,[],2026-07-12T20:49:58.496Z,INFERRED,0.9,4,1,Evidence-Grounded
+1175,False,[],2026-07-12T20:51:41.606Z,INFERRED,0.9,4,0,Active Reasoning
+1176,False,[],2026-07-12T20:52:11.405Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1177,False,[],2026-07-12T20:52:47.663Z,ACTION,1.0,0,2,Execution/Drift
+1178,False,[],2026-07-12T20:53:06.396Z,ACTION,1.0,0,2,Execution/Drift
+1179,False,[],2026-07-12T20:53:27.824Z,INFERRED,0.9,4,2,Execution/Drift
+1180,False,[],2026-07-12T20:54:39.980Z,CORRECTING,1.0,2,2,Execution/Drift
+1181,False,[],2026-07-12T20:54:59.392Z,GROUNDED,1.0,3,2,Execution/Drift
+1182,False,[],2026-07-12T20:56:04.380Z,INFERRED,0.9,4,2,Execution/Drift
+1183,False,[],2026-07-12T20:56:26.756Z,CORRECTING,1.0,2,2,Execution/Drift
+1184,False,[],2026-07-12T20:59:11.144Z,GROUNDED,1.0,3,2,Execution/Drift
+1185,False,[],2026-07-12T20:59:22.105Z,INFERRED,0.8,4,2,Execution/Drift
+1186,False,[],2026-07-12T21:02:35.977Z,CORRECTING,1.0,2,2,Execution/Drift
+1187,False,[],2026-07-12T21:03:26.955Z,MIXED,0.9,5,2,Execution/Drift
+1188,False,[],2026-07-12T21:03:54.094Z,ASSERTED,1.0,1,2,Execution/Drift
+1189,False,[],2026-07-12T21:04:19.555Z,ASSERTED,0.9,1,2,Execution/Drift
+1190,False,[],2026-07-12T21:04:54.736Z,ACTION,1.0,0,2,Execution/Drift
+1191,False,[],2026-07-12T21:05:07.292Z,GROUNDED,1.0,3,2,Execution/Drift
+1192,False,[],2026-07-12T21:06:02.873Z,CORRECTING,1.0,2,2,Execution/Drift
+1193,False,[],2026-07-12T21:06:14.009Z,GROUNDED,1.0,3,2,Execution/Drift
+1194,False,[],2026-07-12T21:09:24.708Z,CORRECTING,0.9,2,2,Execution/Drift
+1195,False,[],2026-07-12T21:10:03.008Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1196,False,[],2026-07-12T21:10:51.906Z,INFERRED,0.9,4,0,Active Reasoning
+1197,False,[],2026-07-12T21:11:38.163Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1198,False,[],2026-07-12T21:12:01.625Z,INFERRED,0.9,4,0,Active Reasoning
+1199,False,[],2026-07-12T21:12:24.568Z,INFERRED,0.9,4,1,Evidence-Grounded
+1200,False,[],2026-07-12T21:13:15.645Z,ASSERTED,0.9,1,0,Active Reasoning
+1201,False,[],2026-07-12T21:14:58.117Z,CORRECTING,1.0,2,1,Evidence-Grounded
+1202,False,[],2026-07-12T21:16:52.080Z,MIXED,0.9,5,0,Active Reasoning
+1203,False,[],2026-07-12T21:19:28.486Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1204,False,[],2026-07-12T21:20:38.433Z,GROUNDED,0.9,3,0,Active Reasoning
+1205,False,[],2026-07-12T21:20:58.542Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1206,False,[],2026-07-12T21:21:15.392Z,GROUNDED,0.9,3,0,Active Reasoning
+1207,False,[],2026-07-12T21:21:38.639Z,INFERRED,0.9,4,1,Evidence-Grounded
+1208,False,[],2026-07-12T21:23:11.092Z,GROUNDED,0.9,3,0,Active Reasoning
+1209,False,[],2026-07-12T21:23:49.577Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1210,False,[],2026-07-12T21:24:40.765Z,MIXED,0.9,5,0,Active Reasoning
+1211,False,[],2026-07-12T21:25:13.790Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1212,False,[],2026-07-12T21:27:08.069Z,GROUNDED,1.0,3,0,Active Reasoning
+1213,False,[],2026-07-12T21:27:54.298Z,ACTION,1.0,0,1,Evidence-Grounded
+1214,False,[],2026-07-12T21:28:05.537Z,ACTION,1.0,0,0,Active Reasoning
+1215,False,[],2026-07-12T21:28:44.589Z,INFERRED,0.9,4,1,Evidence-Grounded
+1216,False,[],2026-07-12T21:29:54.662Z,INFERRED,0.9,4,0,Active Reasoning
+1217,False,[],2026-07-12T21:30:58.306Z,ACTION,0.9,0,1,Evidence-Grounded
+1218,False,[],2026-07-12T21:31:24.529Z,MIXED,0.9,5,0,Active Reasoning
+1219,False,[],2026-07-12T21:32:26.934Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1220,False,[],2026-07-12T21:33:41.787Z,INFERRED,0.9,4,2,Execution/Drift
+1221,False,[],2026-07-12T21:35:26.407Z,MIXED,0.9,5,2,Execution/Drift
+1222,False,[],2026-07-12T21:36:41.949Z,CORRECTING,1.0,2,2,Execution/Drift
+1223,False,[],2026-07-12T21:39:26.645Z,GROUNDED,0.9,3,2,Execution/Drift
+1224,False,[],2026-07-12T21:39:58.573Z,GROUNDED,1.0,3,2,Execution/Drift
+1225,False,[],2026-07-12T21:40:22.033Z,MIXED,0.9,5,2,Execution/Drift
+1226,False,[],2026-07-12T21:43:19.258Z,INFERRED,0.9,4,2,Execution/Drift
+1227,False,[],2026-07-13T08:18:20.799Z,ACTION,1.0,0,2,Execution/Drift
+1228,False,[],2026-07-13T08:19:17.467Z,MIXED,0.9,5,2,Execution/Drift
+1229,False,[],2026-07-13T08:53:02.274Z,ACTION,0.9,0,2,Execution/Drift
+1230,False,[],2026-07-13T08:54:28.592Z,ACTION,1.0,0,0,Active Reasoning
+1231,False,[],2026-07-13T09:10:18.877Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1232,False,[],2026-07-13T09:12:44.763Z,INFERRED,0.9,4,0,Active Reasoning
+1233,False,[],2026-07-13T09:21:08.266Z,ACTION,1.0,0,1,Evidence-Grounded
+1234,False,[],2026-07-13T10:34:17.349Z,GROUNDED,1.0,3,0,Active Reasoning
+1235,False,[],2026-07-13T10:35:38.937Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1236,False,[],2026-07-13T13:38:06.756Z,INFERRED,0.9,4,0,Active Reasoning
+1237,False,[],2026-07-13T14:07:51.035Z,INFERRED,0.9,4,1,Evidence-Grounded
+1238,False,[],2026-07-13T15:05:38.954Z,ACTION,1.0,0,0,Active Reasoning
+1239,False,[],2026-07-13T15:10:14.990Z,INFERRED,0.9,4,1,Evidence-Grounded
+1240,False,[],2026-07-13T15:11:15.022Z,ACTION,1.0,0,0,Active Reasoning
+1241,False,[],2026-07-13T16:59:59.363Z,ACTION,0.9,0,1,Evidence-Grounded
+1242,False,[],2026-07-13T17:05:10.704Z,ASSERTED,1.0,1,0,Active Reasoning
+1243,False,[],2026-07-14T12:06:10.966Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1244,False,[],2026-07-14T12:08:02.030Z,MIXED,0.9,5,0,Active Reasoning
+1245,False,[],2026-07-14T12:12:42.669Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1246,False,[],2026-07-14T12:18:15.709Z,INFERRED,0.9,4,0,Active Reasoning
+1247,False,[],2026-07-14T12:21:03.278Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1248,False,[],2026-07-14T16:27:47.347Z,INFERRED,0.9,4,0,Active Reasoning
+1249,False,[],2026-07-14T16:30:00.977Z,ACTION,1.0,0,1,Evidence-Grounded
+1250,False,[],2026-07-14T16:32:06.135Z,GROUNDED,0.9,3,0,Active Reasoning
+1251,False,[],2026-07-14T16:32:46.609Z,CORRECTING,1.0,2,1,Evidence-Grounded
+1252,False,[],2026-07-14T16:36:23.671Z,INFERRED,0.9,4,0,Active Reasoning
+1253,False,[],2026-07-14T16:37:45.647Z,INFERRED,0.8,4,1,Evidence-Grounded
+1254,False,[],2026-07-14T16:38:46.769Z,INFERRED,0.9,4,2,Execution/Drift
+1255,False,[],2026-07-14T16:40:49.301Z,ACTION,1.0,0,2,Execution/Drift
+1256,False,[],2026-07-14T16:42:36.658Z,ACTION,0.9,0,2,Execution/Drift
+1257,False,[],2026-07-14T16:43:46.773Z,ACTION,1.0,0,2,Execution/Drift
+1258,False,[],2026-07-14T16:46:40.192Z,MIXED,0.95,5,2,Execution/Drift
+1259,False,[],2026-07-14T16:53:14.502Z,MIXED,0.9,5,2,Execution/Drift
+1260,False,[],2026-07-14T16:54:32.049Z,INFERRED,0.9,4,2,Execution/Drift
+1261,False,[],2026-07-14T18:42:10.880Z,ACTION,0.9,0,2,Execution/Drift
+1262,False,[],2026-07-14T18:46:37.079Z,GROUNDED,0.9,3,0,Active Reasoning
+1263,False,[],2026-07-14T18:46:42.891Z,ACTION,1.0,0,1,Evidence-Grounded
+1264,False,[],2026-07-14T19:21:43.971Z,INFERRED,0.9,4,0,Active Reasoning
+1265,False,[],2026-07-14T19:22:26.444Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1266,False,[],2026-07-14T19:23:07.859Z,INFERRED,0.9,4,0,Active Reasoning
+1267,False,[],2026-07-14T19:23:38.512Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1268,False,[],2026-07-14T19:25:12.239Z,INFERRED,0.9,4,2,Execution/Drift
+1269,False,[],2026-07-14T19:27:53.836Z,ACTION,0.9,0,2,Execution/Drift
+1270,False,[],2026-07-14T19:30:37.274Z,ACTION,0.9,0,2,Execution/Drift
+1271,False,[],2026-07-14T19:34:45.274Z,INFERRED,0.9,4,2,Execution/Drift
+1272,False,[],2026-07-14T19:36:20.728Z,ACTION,0.9,0,2,Execution/Drift
+1273,False,[],2026-07-14T20:04:10.937Z,CORRECTING,1.0,2,2,Execution/Drift
+1274,False,[],2026-07-14T20:12:21.389Z,MIXED,0.95,5,2,Execution/Drift
+1275,False,[],2026-07-14T20:16:20.272Z,MIXED,0.9,5,2,Execution/Drift
+1276,False,[],2026-07-14T20:17:04.127Z,ACTION,1.0,0,2,Execution/Drift
+1277,False,[],2026-07-14T20:22:17.341Z,GROUNDED,0.95,3,0,Active Reasoning
+1278,False,[],2026-07-14T20:25:08.726Z,INFERRED,0.9,4,1,Evidence-Grounded
+1279,False,[],2026-07-14T20:32:32.235Z,INFERRED,0.9,4,0,Active Reasoning
+1280,False,[],2026-07-14T20:32:45.235Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1281,False,[],2026-07-14T20:33:52.277Z,MIXED,0.9,5,0,Active Reasoning
+1282,False,[],2026-07-14T20:35:20.903Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1283,False,[],2026-07-14T20:50:34.480Z,MIXED,0.9,5,0,Active Reasoning
+1284,False,[],2026-07-14T20:50:46.210Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1285,False,[],2026-07-14T20:51:08.795Z,INFERRED,0.9,4,0,Active Reasoning
+1286,False,[],2026-07-14T20:59:31.615Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1287,False,[],2026-07-14T21:01:49.664Z,ACTION,0.95,0,0,Active Reasoning
+1288,False,[],2026-07-14T21:08:14.324Z,INFERRED,0.9,4,1,Evidence-Grounded
+1289,False,[],2026-07-14T21:19:20.639Z,GROUNDED,1.0,3,0,Active Reasoning
+1290,False,[],2026-07-14T21:24:52.427Z,ACTION,0.95,0,1,Evidence-Grounded
+1291,False,[],2026-07-14T21:27:05.141Z,INFERRED,0.9,4,0,Active Reasoning
+1292,False,[],2026-07-14T21:32:01.574Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1293,False,[],2026-07-14T21:34:55.465Z,GROUNDED,1.0,3,0,Active Reasoning
+1294,False,[],2026-07-14T21:38:57.650Z,INFERRED,0.85,4,1,Evidence-Grounded
+1295,False,[],2026-07-14T21:40:46.277Z,ACTION,1.0,0,2,Execution/Drift
+1296,False,[],2026-07-14T21:42:12.982Z,ACTION,0.9,0,2,Execution/Drift
+1297,False,[],2026-07-14T21:42:42.333Z,GROUNDED,1.0,3,2,Execution/Drift
+1298,False,[],2026-07-14T21:42:45.646Z,ACTION,1.0,0,2,Execution/Drift
+1299,False,[],2026-07-14T21:44:38.756Z,INFERRED,0.9,4,2,Execution/Drift
+1300,False,[],2026-07-14T21:51:03.799Z,ACTION,0.9,0,2,Execution/Drift
+1301,False,[],2026-07-14T21:51:14.513Z,GROUNDED,1.0,3,2,Execution/Drift
+1302,False,[],2026-07-14T21:53:28.219Z,ACTION,0.9,0,2,Execution/Drift
+1303,False,[],2026-07-14T21:54:55.587Z,INFERRED,0.9,4,2,Execution/Drift
+1304,False,[],2026-07-14T21:55:27.695Z,INFERRED,0.9,4,2,Execution/Drift
+1305,False,[],2026-07-14T21:59:10.850Z,GROUNDED,1.0,3,2,Execution/Drift
+1306,False,[],2026-07-14T22:02:06.560Z,ACTION,1.0,0,2,Execution/Drift
+1307,False,[],2026-07-14T22:03:44.254Z,ACTION,1.0,0,2,Execution/Drift
+1308,False,[],2026-07-14T22:03:47.332Z,ACTION,1.0,0,2,Execution/Drift
+1309,False,[],2026-07-14T22:04:18.336Z,GROUNDED,1.0,3,2,Execution/Drift
+1310,False,[],2026-07-14T22:39:15.315Z,ACTION,0.95,0,2,Execution/Drift
+1311,False,[],2026-07-14T22:40:51.583Z,ACTION,0.9,0,2,Execution/Drift
+1312,False,[],2026-07-14T22:41:53.917Z,MIXED,0.9,5,2,Execution/Drift
+1313,False,[],2026-07-14T22:42:30.856Z,MIXED,0.9,5,2,Execution/Drift
+1314,False,[],2026-07-14T22:44:44.029Z,ASSERTED,0.9,1,0,Active Reasoning
+1315,False,[],2026-07-14T22:45:06.151Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1316,False,[],2026-07-14T22:45:26.752Z,GROUNDED,0.9,3,0,Active Reasoning
+1317,False,[],2026-07-14T22:48:57.933Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1318,False,[],2026-07-14T22:50:57.349Z,ACTION,1.0,0,0,Active Reasoning
+1319,False,[],2026-07-14T22:51:39.491Z,GROUNDED,0.95,3,1,Evidence-Grounded
+1320,False,[],2026-07-14T22:53:13.594Z,ACTION,0.9,0,0,Active Reasoning
+1321,False,[],2026-07-14T22:53:43.190Z,CORRECTING,1.0,2,1,Evidence-Grounded
+1322,False,[],2026-07-14T22:54:20.667Z,ACTION,1.0,0,0,Active Reasoning
+1323,False,[],2026-07-14T22:54:49.446Z,GROUNDED,1.0,3,1,Evidence-Grounded
+1324,False,[],2026-07-14T22:55:01.723Z,ACTION,0.9,0,0,Active Reasoning
+1325,False,[],2026-07-14T22:57:17.411Z,INFERRED,0.9,4,1,Evidence-Grounded
+1326,False,[],2026-07-14T22:58:47.004Z,ACTION,1.0,0,0,Active Reasoning
+1327,False,[],2026-07-14T23:00:10.205Z,INFERRED,0.9,4,1,Evidence-Grounded
+1328,False,[],2026-07-14T23:01:04.847Z,GROUNDED,1.0,3,0,Active Reasoning
+1329,False,[],2026-07-14T23:01:45.802Z,ACTION,1.0,0,1,Evidence-Grounded
+1330,False,[],2026-07-14T23:01:59.394Z,GROUNDED,1.0,3,0,Active Reasoning
+1331,False,[],2026-07-14T23:02:35.041Z,INFERRED,0.9,4,1,Evidence-Grounded
+1332,False,[],2026-07-14T23:03:09.965Z,GROUNDED,1.0,3,0,Active Reasoning
+1333,False,[],2026-07-14T23:04:48.099Z,INFERRED,0.9,4,1,Evidence-Grounded
+1334,False,[],2026-07-14T23:05:53.266Z,MIXED,0.9,5,0,Active Reasoning
+1335,False,[],2026-07-14T23:07:31.110Z,INFERRED,0.9,4,1,Evidence-Grounded
+1336,False,[],2026-07-14T23:11:48.264Z,MIXED,0.9,5,0,Active Reasoning
+1337,False,[],2026-07-14T23:14:13.431Z,GROUNDED,0.9,3,1,Evidence-Grounded
+1338,False,[],2026-07-14T23:18:48.030Z,CORRECTING,0.95,2,2,Execution/Drift
+1339,False,[],2026-07-14T23:27:31.830Z,MIXED,0.9,5,2,Execution/Drift
+1340,False,[],2026-07-14T23:32:09.703Z,CORRECTING,1.0,2,2,Execution/Drift
+1341,False,[],2026-07-14T23:34:41.907Z,INFERRED,0.9,4,2,Execution/Drift
+1342,False,[],2026-07-14T23:41:49.547Z,ACTION,1.0,0,2,Execution/Drift
+1343,False,[],2026-07-15T10:35:25.408Z,ACTION,0.9,0,2,Execution/Drift
+1344,False,[],2026-07-15T10:39:00.425Z,ACTION,1.0,0,2,Execution/Drift
+1345,False,[],2026-07-15T10:56:06.569Z,ACTION,1.0,0,2,Execution/Drift
+1346,False,[],2026-07-15T10:58:21.610Z,ACTION,1.0,0,2,Execution/Drift
