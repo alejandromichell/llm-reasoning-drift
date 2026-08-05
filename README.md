@@ -96,6 +96,7 @@ Raw transcript and full annotated datasets are not included — the session cont
 |---|---|---|---|
 | `session-828a165e-annotated-sanitized.csv` | 1,347 | 9 | Per-turn metadata: classification label, confidence, HMM hidden state, tool call presence, timestamp. All message text removed. |
 | `session-828a165e-evidence-gaps-sanitized.csv` | 31 | 3 | Per-ASSERTED-turn gap counts: number of unsupported claims, annotation confidence. All claim text removed. |
+| `session-828a165e-sample-100-events.html` | — | — | Sanitized 100-event excerpt of the raw JSONL, rendered as color-coded HTML. Shows the actual record structure Claude Code produces (thinking blocks, tool calls, tool results, silent turns). Personal identifiers replaced with `[USER]`, `[EMAIL]`, `[EC2-IP]`. |
 
 `annotation_schema.json` documents the full field definitions including the dropped text columns, so the complete pipeline output format is reproducible against any Claude Code session.
 
