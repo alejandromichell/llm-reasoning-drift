@@ -1,0 +1,60 @@
+{
+  "description": "Schema for the annotated speaking-turn dataset produced by the Gemini annotation pipeline. Each row represents one unique assistant speaking turn from the analyzed Claude Code session.",
+  "fields": {
+    "message_id": {
+      "type": "integer",
+      "description": "Row index (0-based). Not a real message ID — positional index in the speaking-turn sequence."
+    },
+    "content": {
+      "type": "string",
+      "description": "Text of the assistant speaking turn, truncated to 2,000 characters."
+    },
+    "prior_tool_result": {
+      "type": "string",
+      "description": "Most recent tool output before this message, truncated to 2,000 characters."
+    },
+    "prior_assistant_content": {
+      "type": "string",
+      "description": "Preceding assistant speaking turn text, truncated to 2,000 characters."
+    },
+    "had_thinking": {
+      "type": "boolean",
+      "description": "Whether the assistant message had a sibling thinking block in the same message.id group in the JSONL."
+    },
+    "classification": {
+      "type": "string",
+      "enum": ["GROUNDED", "INFERRED", "ASSERTED", "CORRECTING", "ACTION", "MIXED"],
+      "description": "Gemini annotation label."
+    },
+    "confidence": {
+      "type": "float",
+      "description": "Annotator confidence score (0.0–1.0). Mean across dataset: 0.95."
+    },
+    "evidence_present": {
+      "type": "boolean",
+      "description": "Whether the annotator identified evidence in the prior tool result supporting the claim."
+    },
+    "evidence_source": {
+      "type": "string",
+      "description": "Free-text description of where the evidence came from, if present."
+    },
+    "reasoning": {
+      "type": "string",
+      "description": "Annotator's chain-of-thought justification for the assigned label."
+    }
+  },
+  "labels": {
+    "GROUNDED": "Claim or summary directly traceable to prior tool output in context.",
+    "INFERRED": "Interpretation or reasoning from evidence, going beyond what tool output directly states.",
+    "ASSERTED": "Claim presented as fact with no grounding in prior tool output.",
+    "CORRECTING": "Explicit revision of a prior claim — acknowledges and reverses a previous statement.",
+    "ACTION": "Message announcing an upcoming tool call, with minimal independent claim content.",
+    "MIXED": "Message containing substantive content from two or more categories."
+  },
+  "annotator": "gemini-3.1-flash-lite (temperature=0)",
+  "validation": {
+    "determinism": "100% — same message annotated 3x produced identical labels in all 20 sampled messages",
+    "logic_violation_rate": "0%",
+    "mean_confidence": 0.95
+  }
+}
