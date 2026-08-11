@@ -38,7 +38,8 @@ llm-reasoning-drift/
 │   ├── fig3_hmm_hidden_states.png
 │   ├── fig4_drift_velocity_speaking_only.png
 │   ├── fig5_drift_velocity_full_sequence.png
-│   └── fig6_drift_velocity_slope_chart.png
+│   ├── fig6_drift_velocity_slope_chart.png
+│   └── fig7_full_sequence_label_distribution.png
 └── data/
     └── annotation_schema.json           # Dataset field definitions — no raw data
 ```
